@@ -31,9 +31,9 @@ function [google_data, dt] = trends_scraper(app, code, lang, disease, level)
     google_data = reshape(data,[],(length(terms) * length(code)) - misses); 
     dates = py.google_scraper.get_date(char(time));
     dates = cellfun(@char, cell(dates), 'UniformOutput', false)';
-%     if(fix) 
-%         google_data = coronafix(google_data, dates); 
-%     end
+    if(fix) 
+        google_data = coronafix(google_data, dates); 
+    end
     dt = datetime(dates);
 %     dt = dt + 1;
 end
