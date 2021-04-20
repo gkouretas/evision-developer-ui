@@ -192,7 +192,10 @@ def get_to_download(driver):
             pass
 
 def get_covid_data():
-    dir = os.getcwdb().decode() + '/covid-19-data' # current directory + path to folder",
+    try:
+        dir = os.getcwdb().decode() + '/covid-19-data' # current directory + path to folder",
+    except Exception:
+        dir = os.getcwdb().decode() + '\covid-19-data' # support for other directory pathing syntax
     url = "https://github.com/nytimes/covid-19-data"
     if os.listdir(dir): # clears git repo in order to extract updated content",
         content = [(dir + '/') + x for x in os.listdir(dir)]

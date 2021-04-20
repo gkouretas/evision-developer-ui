@@ -96,4 +96,4 @@ def trans(lang, terms):
 # print(dates)
 # file.to_csv('test.csv');
 
-scrape(['US-CA'], ['loss of smell', 'loss of taste'], 'en', '2020-01-26 2021-02-12')
+# scrape(['US-CA'], ['loss of smell', 'loss of taste'], 'en', '2020-01-26 2021-02-12')
