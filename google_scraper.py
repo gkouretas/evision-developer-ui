@@ -1,8 +1,7 @@
 import pandas as pd
 import datetime as dt
-import goslate
 from pytrends.request import TrendReq
-from googletrans import Translator
+from translate import Translator
 
 def scrape(codes, terms, lang, time):
     # print(codes)
@@ -70,15 +69,15 @@ def trans(lang, terms):
     #     terms[count] = trans.text # changes object to text
     #     count += 1
 
-    gs = goslate.Goslate()
+    translator = Translator(to_lang=lang)
     translations = []
+
     for term in terms:
-        translations.append(gs.translate(term, lang))
-        time.sleep(1)
+        translations.append(translator.translate(term))
+        # time.sleep(1)
     print(translations)
 
-    return translations # returns translated terms
-
+    return translations
 
 # def get_range():
 #     curr_week = dt.date.today().isocalendar()[1]
