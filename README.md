@@ -22,17 +22,11 @@ Steps to Deploy
 ---------------
 
 1. Install Google Chrome and chromedriver if you have not and make sure the versions correspond with one another.
-
 2. Make sure that you have all the Python libraries installed
-
 3. Insert correct paths within the system. 
-
 * Will need to add the path to your chromedriver on line 147 of case_scraper.py.
-
 * Will need to make sure your MATLAB is able to find the system path to your version of Python (information concerning this can be found <a href="https://www.mathworks.com/help/matlab/matlab_external/install-supported-python-implementation.html?s_tid=mwa_osa_a">here</a>).  Also be sure to add the path in line 3 of the file py_init.m.
-
 4. (Optional) Save your MATLAB app onto your desktop
-
 * Open the .mlapp file in the MATLAB App Designer and got to Share -> MATLAB App
 * Make sure all the files are included in the "files included through analysis" (should all include by default)
 * Press package
