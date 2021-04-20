@@ -1,0 +1,1855 @@
+Name,Code,Primary Language,Country Name,Country Code
+"Bengo",AO-BGO,pt,Angola,AO
+"Benguela",AO-BGU,pt,Angola,AO
+"Bie",AO-BIE,pt,Angola,AO
+"Cabinda",AO-CAB,pt,Angola,AO
+"Cunene",AO-CNN,pt,Angola,AO
+"Huambo",AO-HUA,pt,Angola,AO
+"Huila",AO-HUI,pt,Angola,AO
+"Kuando Kubango",AO-CCU,pt,Angola,AO
+"Kwanza Norte",AO-CNO,pt,Angola,AO
+"Kwanza Sul",AO-CUS,pt,Angola,AO
+"Luanda",AO-LUA,pt,Angola,AO
+"Lunda Norte",AO-LNO,pt,Angola,AO
+"Lunda Sul",AO-LSU,pt,Angola,AO
+"Malange",AO-MAL,pt,Angola,AO
+"Moxico",AO-MOX,pt,Angola,AO
+"Namibe",AO-NAM,pt,Angola,AO
+"Uige",AO-UIG,pt,Angola,AO
+"Zaire",AO-ZAI,pt,Angola,AO
+"Buenos Aires",AR-B,es,Argentina,AR
+"Catamarca",AR-K,es,Argentina,AR
+"Chaco",AR-H,es,Argentina,AR
+"Chubut",AR-U,es,Argentina,AR
+"Ciudad Autonoma de Buenos Aires",AR-C,es,Argentina,AR
+"Cordoba",AR-X,es,Argentina,AR
+"Corrientes",AR-W,es,Argentina,AR
+"Entre Rios",AR-E,es,Argentina,AR
+"Formosa",AR-P,es,Argentina,AR
+"Jujuy",AR-Y,es,Argentina,AR
+"La Pampa",AR-L,es,Argentina,AR
+"La Rioja",AR-F,es,Argentina,AR
+"Mendoza",AR-M,es,Argentina,AR
+"Misiones",AR-N,es,Argentina,AR
+"Neuquen",AR-Q,es,Argentina,AR
+"Rio Negro",AR-R,es,Argentina,AR
+"Salta",AR-A,es,Argentina,AR
+"San Juan",AR-J,es,Argentina,AR
+"San Luis",AR-D,es,Argentina,AR
+"Santa Cruz",AR-Z,es,Argentina,AR
+"Santa Fe",AR-S,es,Argentina,AR
+"Santiago del Estero",AR-G,es,Argentina,AR
+"Tierra del Fuego",AR-V,es,Argentina,AR
+"Tucuman",AR-T,es,Argentina,AR
+"Burgenland",AT-1,de,Austria,AT
+"Karnten",AT-2,de,Austria,AT
+"Niederosterreich",AT-3,de,Austria,AT
+"Oberosterreich",AT-4,de,Austria,AT
+"Salzburg",AT-5,de,Austria,AT
+"Steiermark",AT-6,de,Austria,AT
+"Tirol",AT-7,de,Austria,AT
+"Vorarlberg",AT-8,de,Austria,AT
+"Wien",AT-9,de,Austria,AT
+"Australian Capital Territory",AU-ACT,en,Australia,AU
+"New South Wales",AU-NSW,en,Australia,AU
+"Northern Territory",AU-NT,en,Australia,AU
+"Queensland",AU-QLD,en,Australia,AU
+"South Australia",AU-SA,en,Australia,AU
+"Tasmania",AU-TAS,en,Australia,AU
+"Victoria",AU-VIC,en,Australia,AU
+"Western Australia",AU-WA,en,Australia,AU
+"Abseron",AZ-ABS,az,Azerbaijan,AZ
+"Agcabadi",AZ-AGC,az,Azerbaijan,AZ
+"Agstafa",AZ-AGA,az,Azerbaijan,AZ
+"Agsu",AZ-AGU,az,Azerbaijan,AZ
+"Baki",AZ-BA,az,Azerbaijan,AZ
+"Balakan",AZ-BAL,az,Azerbaijan,AZ
+"Barda",AZ-BAR,az,Azerbaijan,AZ
+"Beylaqan",AZ-BEY,az,Azerbaijan,AZ
+"Bilasuvar",AZ-BIL,az,Azerbaijan,AZ
+"Calilabad",AZ-CAL,az,Azerbaijan,AZ
+"Daskasan",AZ-DAS,az,Azerbaijan,AZ
+"Fuzuli",AZ-FUZ,az,Azerbaijan,AZ
+"Gadabay",AZ-GAD,az,Azerbaijan,AZ
+"Ganca",AZ-GA,az,Azerbaijan,AZ
+"Goranboy",AZ-GOR,az,Azerbaijan,AZ
+"Goycay",AZ-GOY,az,Azerbaijan,AZ
+"Goygol",AZ-GYG,az,Azerbaijan,AZ
+"Haciqabul",AZ-HAC,az,Azerbaijan,AZ
+"Imisli",AZ-IMI,az,Azerbaijan,AZ
+"Kurdamir",AZ-KUR,az,Azerbaijan,AZ
+"Lankaran",AZ-LA,az,Azerbaijan,AZ
+"Masalli",AZ-MAS,az,Azerbaijan,AZ
+"Mingacevir",AZ-MI,az,Azerbaijan,AZ
+"Naftalan",AZ-NA,az,Azerbaijan,AZ
+"Naxcivan",AZ-NX,az,Azerbaijan,AZ
+"Neftcala",AZ-NEF,az,Azerbaijan,AZ
+"Oguz",AZ-OGU,az,Azerbaijan,AZ
+"Qabala",AZ-QAB,az,Azerbaijan,AZ
+"Qax",AZ-QAX,az,Azerbaijan,AZ
+"Qazax",AZ-QAZ,az,Azerbaijan,AZ
+"Quba",AZ-QBA,az,Azerbaijan,AZ
+"Qusar",AZ-QUS,az,Azerbaijan,AZ
+"Sabirabad",AZ-SAB,az,Azerbaijan,AZ
+"Saki",AZ-SAK,az,Azerbaijan,AZ
+"Salyan",AZ-SAL,az,Azerbaijan,AZ
+"Samaxi",AZ-SMI,az,Azerbaijan,AZ
+"Samkir",AZ-SKR,az,Azerbaijan,AZ
+"Samux",AZ-SMX,az,Azerbaijan,AZ
+"Sirvan",AZ-SR,az,Azerbaijan,AZ
+"Siyazan",AZ-SIY,az,Azerbaijan,AZ
+"Sumqayit",AZ-SM,az,Azerbaijan,AZ
+"Tovuz",AZ-TOV,az,Azerbaijan,AZ
+"Xacmaz",AZ-XAC,az,Azerbaijan,AZ
+"Xizi",AZ-XIZ,az,Azerbaijan,AZ
+"Yardimli",AZ-YAR,az,Azerbaijan,AZ
+"Yevlax",AZ-YEV,az,Azerbaijan,AZ
+"Zaqatala",AZ-ZAQ,az,Azerbaijan,AZ
+"Brcko distrikt",BA-BRC,bs,Bosnia and Herzegovina,BA
+"Federacija Bosne i Hercegovine",BA-BIH,bs,Bosnia and Herzegovina,BA
+"Republika Srpska",BA-SRP,bs,Bosnia and Herzegovina,BA
+"Christ Church",BB-01,en,Barbados,BB
+"Saint Andrew",BB-02,en,Barbados,BB
+"Saint George",BB-03,en,Barbados,BB
+"Saint James",BB-04,en,Barbados,BB
+"Saint John",BB-05,en,Barbados,BB
+"Saint Joseph",BB-06,en,Barbados,BB
+"Saint Lucy",BB-07,en,Barbados,BB
+"Saint Michael",BB-08,en,Barbados,BB
+"Saint Peter",BB-09,en,Barbados,BB
+"Saint Philip",BB-10,en,Barbados,BB
+"Saint Thomas",BB-11,en,Barbados,BB
+"Antwerpen",BE-VAN,nl,Belgium,BE
+"Brabant wallon",BE-WBR,nl,Belgium,BE
+"Brussels Hoofdstedelijk Gewest",BE-BRU,nl,Belgium,BE
+"Hainaut",BE-WHT,nl,Belgium,BE
+"Liege",BE-WLG,nl,Belgium,BE
+"Limburg",BE-VLI,nl,Belgium,BE
+"Luxembourg",BE-WLX,nl,Belgium,BE
+"Namur",BE-WNA,nl,Belgium,BE
+"Oost-Vlaanderen",BE-VOV,nl,Belgium,BE
+"Vlaams-Brabant",BE-VBR,nl,Belgium,BE
+"West-Vlaanderen",BE-VWV,nl,Belgium,BE
+"Blagoevgrad",BG-01,bg,Bulgaria,BG
+"Burgas",BG-02,bg,Bulgaria,BG
+"Dobrich",BG-08,bg,Bulgaria,BG
+"Gabrovo",BG-07,bg,Bulgaria,BG
+"Haskovo",BG-26,bg,Bulgaria,BG
+"Kardzhali",BG-09,bg,Bulgaria,BG
+"Kyustendil",BG-10,bg,Bulgaria,BG
+"Lovech",BG-11,bg,Bulgaria,BG
+"Montana",BG-12,bg,Bulgaria,BG
+"Pazardzhik",BG-13,bg,Bulgaria,BG
+"Pernik",BG-14,bg,Bulgaria,BG
+"Pleven",BG-15,bg,Bulgaria,BG
+"Plovdiv",BG-16,bg,Bulgaria,BG
+"Razgrad",BG-17,bg,Bulgaria,BG
+"Ruse",BG-18,bg,Bulgaria,BG
+"Shumen",BG-27,bg,Bulgaria,BG
+"Silistra",BG-19,bg,Bulgaria,BG
+"Sliven",BG-20,bg,Bulgaria,BG
+"Smolyan",BG-21,bg,Bulgaria,BG
+"Sofia",BG-23,bg,Bulgaria,BG
+"Sofia (stolitsa)",BG-22,bg,Bulgaria,BG
+"Stara Zagora",BG-24,bg,Bulgaria,BG
+"Targovishte",BG-25,bg,Bulgaria,BG
+"Varna",BG-03,bg,Bulgaria,BG
+"Veliko Tarnovo",BG-04,bg,Bulgaria,BG
+"Vidin",BG-05,bg,Bulgaria,BG
+"Vratsa",BG-06,bg,Bulgaria,BG
+"Yambol",BG-28,bg,Bulgaria,BG
+"Hamilton",-,en,Bermuda,BM
+"Saint George",-,en,Bermuda,BM
+"Acre",BR-AC,pt,Brazil,BR
+"Alagoas",BR-AL,pt,Brazil,BR
+"Amapa",BR-AP,pt,Brazil,BR
+"Amazonas",BR-AM,pt,Brazil,BR
+"Bahia",BR-BA,pt,Brazil,BR
+"Ceara",BR-CE,pt,Brazil,BR
+"Distrito Federal",BR-DF,pt,Brazil,BR
+"Espirito Santo",BR-ES,pt,Brazil,BR
+"Goias",BR-GO,pt,Brazil,BR
+"Maranhao",BR-MA,pt,Brazil,BR
+"Mato Grosso",BR-MT,pt,Brazil,BR
+"Mato Grosso do Sul",BR-MS,pt,Brazil,BR
+"Minas Gerais",BR-MG,pt,Brazil,BR
+"Para",BR-PA,pt,Brazil,BR
+"Paraiba",BR-PB,pt,Brazil,BR
+"Parana",BR-PR,pt,Brazil,BR
+"Pernambuco",BR-PE,pt,Brazil,BR
+"Piaui",BR-PI,pt,Brazil,BR
+"Rio Grande do Norte",BR-RN,pt,Brazil,BR
+"Rio Grande do Sul",BR-RS,pt,Brazil,BR
+"Rio de Janeiro",BR-RJ,pt,Brazil,BR
+"Rondonia",BR-RO,pt,Brazil,BR
+"Roraima",BR-RR,pt,Brazil,BR
+"Santa Catarina",BR-SC,pt,Brazil,BR
+"Sao Paulo",BR-SP,pt,Brazil,BR
+"Sergipe",BR-SE,pt,Brazil,BR
+"Tocantins",BR-TO,pt,Brazil,BR
+"Central Andros",BS-CS,en,Bahamas,BS
+"City of Freeport",BS-FP,en,Bahamas,BS
+"Harbour Island",BS-HI,en,Bahamas,BS
+"Hope Town",BS-HT,en,Bahamas,BS
+"Long Island",BS-LI,en,Bahamas,BS
+"New Providence",BS-NP,en,Bahamas,BS
+"South Eleuthera",BS-SE,en,Bahamas,BS
+"Belize",BZ-BZ,en,Belize,BZ
+"Cayo",BZ-CY,en,Belize,BZ
+"Corozal",BZ-CZL,en,Belize,BZ
+"Orange Walk",BZ-OW,en,Belize,BZ
+"Stann Creek",BZ-SC,en,Belize,BZ
+"Toledo",BZ-TOL,en,Belize,BZ
+"Alberta",CA-AB,en,Canada,CA
+"British Columbia",CA-BC,en,Canada,CA
+"Manitoba",CA-MB,en,Canada,CA
+"New Brunswick",CA-NB,en,Canada,CA
+"Newfoundland and Labrador",CA-NL,en,Canada,CA
+"Northwest Territories",CA-NT,en,Canada,CA
+"Nova Scotia",CA-NS,en,Canada,CA
+"Nunavut",CA-NU,en,Canada,CA
+"Ontario",CA-ON,en,Canada,CA
+"Prince Edward Island",CA-PE,en,Canada,CA
+"Quebec",CA-QC,en,Canada,CA
+"Saskatchewan",CA-SK,en,Canada,CA
+"Yukon",CA-YT,en,Canada,CA
+"Aargau",CH-AG,de,Switzerland,CH
+"Appenzell Ausserrhoden",CH-AR,de,Switzerland,CH
+"Appenzell Innerrhoden",CH-AI,de,Switzerland,CH
+"Basel-Landschaft",CH-BL,de,Switzerland,CH
+"Basel-Stadt",CH-BS,de,Switzerland,CH
+"Bern",CH-BE,de,Switzerland,CH
+"Fribourg",CH-FR,de,Switzerland,CH
+"Geneve",CH-GE,de,Switzerland,CH
+"Glarus",CH-GL,de,Switzerland,CH
+"Graubunden",CH-GR,de,Switzerland,CH
+"Jura",CH-JU,de,Switzerland,CH
+"Luzern",CH-LU,de,Switzerland,CH
+"Neuchatel",CH-NE,de,Switzerland,CH
+"Nidwalden",CH-NW,de,Switzerland,CH
+"Obwalden",CH-OW,de,Switzerland,CH
+"Sankt Gallen",CH-SG,de,Switzerland,CH
+"Schaffhausen",CH-SH,de,Switzerland,CH
+"Schwyz",CH-SZ,de,Switzerland,CH
+"Solothurn",CH-SO,de,Switzerland,CH
+"Thurgau",CH-TG,de,Switzerland,CH
+"Ticino",CH-TI,de,Switzerland,CH
+"Uri",CH-UR,de,Switzerland,CH
+"Valais",CH-VS,de,Switzerland,CH
+"Vaud",CH-VD,de,Switzerland,CH
+"Zug",CH-ZG,de,Switzerland,CH
+"Zurich",CH-ZH,de,Switzerland,CH
+"Aisen del General Carlos Ibanez del Campo",CL-AI,es,Chile,CL
+"Antofagasta",CL-AN,es,Chile,CL
+"Arica y Parinacota",CL-AP,es,Chile,CL
+"Atacama",CL-AT,es,Chile,CL
+"Biobio",CL-BI,es,Chile,CL
+"Coquimbo",CL-CO,es,Chile,CL
+"La Araucania",CL-AR,es,Chile,CL
+"Libertador General Bernardo O'Higgins",CL-LI,es,Chile,CL
+"Los Lagos",CL-LL,es,Chile,CL
+"Los Rios",CL-LR,es,Chile,CL
+"Magallanes",CL-MA,es,Chile,CL
+"Maule",CL-ML,es,Chile,CL
+"Region Metropolitana de Santiago",CL-RM,es,Chile,CL
+"Tarapaca",CL-TA,es,Chile,CL
+"Valparaiso",CL-VS,es,Chile,CL
+"Amazonas",CO-AMA,es,Colombia,CO
+"Antioquia",CO-ANT,es,Colombia,CO
+"Arauca",CO-ARA,es,Colombia,CO
+"Atlantico",CO-ATL,es,Colombia,CO
+"Bolivar",CO-BOL,es,Colombia,CO
+"Boyaca",CO-BOY,es,Colombia,CO
+"Caldas",CO-CAL,es,Colombia,CO
+"Caqueta",CO-CAQ,es,Colombia,CO
+"Casanare",CO-CAS,es,Colombia,CO
+"Cauca",CO-CAU,es,Colombia,CO
+"Cesar",CO-CES,es,Colombia,CO
+"Choco",CO-CHO,es,Colombia,CO
+"Cordoba",CO-COR,es,Colombia,CO
+"Cundinamarca",CO-CUN,es,Colombia,CO
+"Distrito Capital de Bogota",CO-DC,es,Colombia,CO
+"Guainia",CO-GUA,es,Colombia,CO
+"Guaviare",CO-GUV,es,Colombia,CO
+"Huila",CO-HUI,es,Colombia,CO
+"La Guajira",CO-LAG,es,Colombia,CO
+"Magdalena",CO-MAG,es,Colombia,CO
+"Meta",CO-MET,es,Colombia,CO
+"Narino",CO-NAR,es,Colombia,CO
+"Norte de Santander",CO-NSA,es,Colombia,CO
+"Putumayo",CO-PUT,es,Colombia,CO
+"Quindio",CO-QUI,es,Colombia,CO
+"Risaralda",CO-RIS,es,Colombia,CO
+"San Andres, Providencia y Santa Catalina",CO-SAP,es,Colombia,CO
+"Santander",CO-SAN,es,Colombia,CO
+"Sucre",CO-SUC,es,Colombia,CO
+"Tolima",CO-TOL,es,Colombia,CO
+"Valle del Cauca",CO-VAC,es,Colombia,CO
+"Vichada",CO-VID,es,Colombia,CO
+"Alajuela",CR-A,es,Costa Rica,CR
+"Cartago",CR-C,es,Costa Rica,CR
+"Guanacaste",CR-G,es,Costa Rica,CR
+"Heredia",CR-H,es,Costa Rica,CR
+"Limon",CR-L,es,Costa Rica,CR
+"Puntarenas",CR-P,es,Costa Rica,CR
+"San Jose",CR-SJ,es,Costa Rica,CR
+"Artemisa",CU-15,es,Cuba,CU
+"Camaguey",CU-09,es,Cuba,CU
+"Ciego de Avila",CU-08,es,Cuba,CU
+"Cienfuegos",CU-06,es,Cuba,CU
+"Granma",CU-12,es,Cuba,CU
+"Guantanamo",CU-14,es,Cuba,CU
+"Holguin",CU-11,es,Cuba,CU
+"La Habana",CU-03,es,Cuba,CU
+"Las Tunas",CU-10,es,Cuba,CU
+"Matanzas",CU-04,es,Cuba,CU
+"Mayabeque",CU-16,es,Cuba,CU
+"Pinar del Rio",CU-01,es,Cuba,CU
+"Sancti Spiritus",CU-07,es,Cuba,CU
+"Santiago de Cuba",CU-13,es,Cuba,CU
+"Villa Clara",CU-05,es,Cuba,CU
+"Baden-Wurttemberg",DE-BW,de,Germany,DE
+"Bayern",DE-BY,de,Germany,DE
+"Berlin",DE-BE,de,Germany,DE
+"Brandenburg",DE-BB,de,Germany,DE
+"Bremen",DE-HB,de,Germany,DE
+"Hamburg",DE-HH,de,Germany,DE
+"Hessen",DE-HE,de,Germany,DE
+"Mecklenburg-Vorpommern",DE-MV,de,Germany,DE
+"Niedersachsen",DE-NI,de,Germany,DE
+"Nordrhein-Westfalen",DE-NW,de,Germany,DE
+"Rheinland-Pfalz",DE-RP,de,Germany,DE
+"Saarland",DE-SL,de,Germany,DE
+"Sachsen",DE-SN,de,Germany,DE
+"Sachsen-Anhalt",DE-ST,de,Germany,DE
+"Schleswig-Holstein",DE-SH,de,Germany,DE
+"Thuringen",DE-TH,de,Germany,DE
+"Hovedstaden",DK-84,da,Denmark,DK
+"Midtjylland",DK-82,da,Denmark,DK
+"Nordjylland",DK-81,da,Denmark,DK
+"Sjaelland",DK-85,da,Denmark,DK
+"Syddanmark",DK-83,da,Denmark,DK
+"Azua",DO-02,es,Dominican Republic,DO
+"Baoruco",DO-03,es,Dominican Republic,DO
+"Barahona",DO-04,es,Dominican Republic,DO
+"Dajabon",DO-05,es,Dominican Republic,DO
+"Distrito Nacional (Santo Domingo)",DO-01,es,Dominican Republic,DO
+"Duarte",DO-06,es,Dominican Republic,DO
+"El Seibo",DO-08,es,Dominican Republic,DO
+"Elias Pina",DO-07,es,Dominican Republic,DO
+"Espaillat",DO-09,es,Dominican Republic,DO
+"Hato Mayor",DO-30,es,Dominican Republic,DO
+"Hermanas Mirabal",DO-19,es,Dominican Republic,DO
+"Independencia",DO-10,es,Dominican Republic,DO
+"La Altagracia",DO-11,es,Dominican Republic,DO
+"La Romana",DO-12,es,Dominican Republic,DO
+"La Vega",DO-13,es,Dominican Republic,DO
+"Maria Trinidad Sanchez",DO-14,es,Dominican Republic,DO
+"Monsenor Nouel",DO-28,es,Dominican Republic,DO
+"Monte Cristi",DO-15,es,Dominican Republic,DO
+"Monte Plata",DO-29,es,Dominican Republic,DO
+"Peravia",DO-17,es,Dominican Republic,DO
+"Puerto Plata",DO-18,es,Dominican Republic,DO
+"Samana",DO-20,es,Dominican Republic,DO
+"San Cristobal",DO-21,es,Dominican Republic,DO
+"San Jose de Ocoa",DO-31,es,Dominican Republic,DO
+"San Juan",DO-22,es,Dominican Republic,DO
+"San Pedro de Macoris",DO-23,es,Dominican Republic,DO
+"Sanchez Ramirez",DO-24,es,Dominican Republic,DO
+"Santiago",DO-25,es,Dominican Republic,DO
+"Santiago Rodriguez",DO-26,es,Dominican Republic,DO
+"Valverde",DO-27,es,Dominican Republic,DO
+"Azuay",EC-A,es,Ecuador,EC
+"Bolivar",EC-B,es,Ecuador,EC
+"Canar",EC-F,es,Ecuador,EC
+"Carchi",EC-C,es,Ecuador,EC
+"Chimborazo",EC-H,es,Ecuador,EC
+"Cotopaxi",EC-X,es,Ecuador,EC
+"El Oro",EC-O,es,Ecuador,EC
+"Esmeraldas",EC-E,es,Ecuador,EC
+"Galapagos",EC-W,es,Ecuador,EC
+"Guayas",EC-G,es,Ecuador,EC
+"Imbabura",EC-I,es,Ecuador,EC
+"Loja",EC-L,es,Ecuador,EC
+"Los Rios",EC-R,es,Ecuador,EC
+"Manabi",EC-M,es,Ecuador,EC
+"Morona Santiago",EC-S,es,Ecuador,EC
+"Napo",EC-N,es,Ecuador,EC
+"Orellana",EC-D,es,Ecuador,EC
+"Pastaza",EC-Y,es,Ecuador,EC
+"Pichincha",EC-P,es,Ecuador,EC
+"Santa Elena",EC-SE,es,Ecuador,EC
+"Santo Domingo de los Tsachilas",EC-SD,es,Ecuador,EC
+"Sucumbios",EC-U,es,Ecuador,EC
+"Tungurahua",EC-T,es,Ecuador,EC
+"Zamora Chinchipe",EC-Z,es,Ecuador,EC
+"Ad Daqahliyah",EG-DK,ar,Egypt,EG
+"Al Bahr al Ahmar",EG-BA,ar,Egypt,EG
+"Al Buhayrah",EG-BH,ar,Egypt,EG
+"Al Fayyum",EG-FYM,ar,Egypt,EG
+"Al Gharbiyah",EG-GH,ar,Egypt,EG
+"Al Iskandariyah",EG-ALX,ar,Egypt,EG
+"Al Isma'iliyah",EG-IS,ar,Egypt,EG
+"Al Jizah",EG-GZ,ar,Egypt,EG
+"Al Minufiyah",EG-MNF,ar,Egypt,EG
+"Al Minya",EG-MN,ar,Egypt,EG
+"Al Qahirah",EG-C,ar,Egypt,EG
+"Al Qalyubiyah",EG-KB,ar,Egypt,EG
+"Al Uqsur",EG-LX,ar,Egypt,EG
+"Al Wadi al Jadid",EG-WAD,ar,Egypt,EG
+"As Suways",EG-SUZ,ar,Egypt,EG
+"Ash Sharqiyah",EG-SHR,ar,Egypt,EG
+"Aswan",EG-ASN,ar,Egypt,EG
+"Asyut",EG-AST,ar,Egypt,EG
+"Bani Suwayf",EG-BNS,ar,Egypt,EG
+"Bur Sa'id",EG-PTS,ar,Egypt,EG
+"Dumyat",EG-DT,ar,Egypt,EG
+"Janub Sina'",EG-JS,ar,Egypt,EG
+"Kafr ash Shaykh",EG-KFS,ar,Egypt,EG
+"Matruh",EG-MT,ar,Egypt,EG
+"Qina",EG-KN,ar,Egypt,EG
+"Shamal Sina'",EG-SIN,ar,Egypt,EG
+"Suhaj",EG-SHG,ar,Egypt,EG
+"Andalucia",ES-AN,es,Spain,ES
+"Aragon",ES-AR,es,Spain,ES
+"Asturias, Principado de",ES-AS,es,Spain,ES
+"Canarias",ES-CN,es,Spain,ES
+"Cantabria",ES-CB,es,Spain,ES
+"Castilla y Leon",ES-CL,es,Spain,ES
+"Castilla-La Mancha",ES-CM,es,Spain,ES
+"Catalunya",ES-CT,es,Spain,ES
+"Ceuta",ES-CE,es,Spain,ES
+"Extremadura",ES-EX,es,Spain,ES
+"Galicia",ES-GA,es,Spain,ES
+"Illes Balears",ES-IB,es,Spain,ES
+"La Rioja",ES-RI,es,Spain,ES
+"Madrid, Comunidad de",ES-MD,es,Spain,ES
+"Melilla",ES-ML,es,Spain,ES
+"Murcia, Region de",ES-MC,es,Spain,ES
+"Navarra, Comunidad Foral de",ES-NC,es,Spain,ES
+"Pais Vasco",ES-PV,es,Spain,ES
+"Valenciana, Comunidad",ES-VC,es,Spain,ES
+"Etela-Karjala",FI-02,fi,Finland,FI
+"Etela-Pohjanmaa",FI-03,fi,Finland,FI
+"Etela-Savo",FI-04,fi,Finland,FI
+"Kainuu",FI-05,fi,Finland,FI
+"Kanta-Hame",FI-06,fi,Finland,FI
+"Keski-Pohjanmaa",FI-07,fi,Finland,FI
+"Keski-Suomi",FI-08,fi,Finland,FI
+"Kymenlaakso",FI-09,fi,Finland,FI
+"Lappi",FI-10,fi,Finland,FI
+"Paijat-Hame",FI-16,fi,Finland,FI
+"Pirkanmaa",FI-11,fi,Finland,FI
+"Pohjanmaa",FI-12,fi,Finland,FI
+"Pohjois-Karjala",FI-13,fi,Finland,FI
+"Pohjois-Pohjanmaa",FI-14,fi,Finland,FI
+"Pohjois-Savo",FI-15,fi,Finland,FI
+"Satakunta",FI-17,fi,Finland,FI
+"Uusimaa",FI-18,fi,Finland,FI
+"Varsinais-Suomi",FI-19,fi,Finland,FI
+"Auvergne-Rhone-Alpes",FR-ARA,fr,France,FR
+"Bourgogne-Franche-Comte",FR-BFC,fr,France,FR
+"Bretagne",FR-BRE,fr,France,FR
+"Centre-Val de Loire",FR-CVL,fr,France,FR
+"Corse",FR-COR,fr,France,FR
+"Grand-Est",FR-GES,fr,France,FR
+"Hauts-de-France",FR-HDF,fr,France,FR
+"Ile-de-France",FR-IDF,fr,France,FR
+"Normandie",FR-NOR,fr,France,FR
+"Nouvelle-Aquitaine",FR-NAQ,fr,France,FR
+"Occitanie",FR-OCC,fr,France,FR
+"Pays-de-la-Loire",FR-PDL,fr,France,FR
+"Provence-Alpes-Cote-d'Azur",FR-PAC,fr,France,FR
+"Abkhazia",GE-AB,ka,Georgia,GE
+"Ajaria",GE-AJ,ka,Georgia,GE
+"Guria",GE-GU,ka,Georgia,GE
+"Imereti",GE-IM,ka,Georgia,GE
+"K'akheti",GE-KA,ka,Georgia,GE
+"Kvemo Kartli",GE-KK,ka,Georgia,GE
+"Mtskheta-Mtianeti",GE-MM,ka,Georgia,GE
+"Rach'a-Lechkhumi-Kvemo Svaneti",GE-RL,ka,Georgia,GE
+"Samegrelo-Zemo Svaneti",GE-SZ,ka,Georgia,GE
+"Samtskhe-Javakheti",GE-SJ,ka,Georgia,GE
+"Shida Kartli",GE-SK,ka,Georgia,GE
+"Tbilisi",GE-TB,ka,Georgia,GE
+"Ashanti",GH-AH,en,Ghana,GH
+"Brong-Ahafo",GH-BA,en,Ghana,GH
+"Central",GH-CP,en,Ghana,GH
+"Eastern",GH-EP,en,Ghana,GH
+"Greater Accra",GH-AA,en,Ghana,GH
+"Northern",GH-NP,en,Ghana,GH
+"Upper East",GH-UE,en,Ghana,GH
+"Volta",GH-TV,en,Ghana,GH
+"Western",GH-WP,en,Ghana,GH
+"Anatoliki Makedonia kai Thraki",GR-A,el,Greece,GR
+"Attiki",GR-I,el,Greece,GR
+"Dytiki Ellada",GR-G,el,Greece,GR
+"Dytiki Makedonia",GR-C,el,Greece,GR
+"Ionia Nisia",GR-F,el,Greece,GR
+"Ipeiros",GR-D,el,Greece,GR
+"Kentriki Makedonia",GR-B,el,Greece,GR
+"Kriti",GR-M,el,Greece,GR
+"Notio Aigaio",GR-L,el,Greece,GR
+"Peloponnisos",GR-J,el,Greece,GR
+"Sterea Ellada",GR-H,el,Greece,GR
+"Thessalia",GR-E,el,Greece,GR
+"Voreio Aigaio",GR-K,el,Greece,GR
+"Alta Verapaz",GT-AV,es,Guatemala,GT
+"Baja Verapaz",GT-BV,es,Guatemala,GT
+"Chimaltenango",GT-CM,es,Guatemala,GT
+"Chiquimula",GT-CQ,es,Guatemala,GT
+"El Progreso",GT-PR,es,Guatemala,GT
+"Escuintla",GT-ES,es,Guatemala,GT
+"Guatemala",GT-GU,es,Guatemala,GT
+"Huehuetenango",GT-HU,es,Guatemala,GT
+"Izabal",GT-IZ,es,Guatemala,GT
+"Jalapa",GT-JA,es,Guatemala,GT
+"Jutiapa",GT-JU,es,Guatemala,GT
+"Peten",GT-PE,es,Guatemala,GT
+"Quetzaltenango",GT-QZ,es,Guatemala,GT
+"Quiche",GT-QC,es,Guatemala,GT
+"Retalhuleu",GT-RE,es,Guatemala,GT
+"Sacatepequez",GT-SA,es,Guatemala,GT
+"San Marcos",GT-SM,es,Guatemala,GT
+"Santa Rosa",GT-SR,es,Guatemala,GT
+"Solola",GT-SO,es,Guatemala,GT
+"Suchitepequez",GT-SU,es,Guatemala,GT
+"Totonicapan",GT-TO,es,Guatemala,GT
+"Zacapa",GT-ZA,es,Guatemala,GT
+"Atlantida",HN-AT,es,Honduras,HN
+"Choluteca",HN-CH,es,Honduras,HN
+"Colon",HN-CL,es,Honduras,HN
+"Comayagua",HN-CM,es,Honduras,HN
+"Copan",HN-CP,es,Honduras,HN
+"Cortes",HN-CR,es,Honduras,HN
+"El Paraiso",HN-EP,es,Honduras,HN
+"Francisco Morazan",HN-FM,es,Honduras,HN
+"Intibuca",HN-IN,es,Honduras,HN
+"Islas de la Bahia",HN-IB,es,Honduras,HN
+"La Paz",HN-LP,es,Honduras,HN
+"Lempira",HN-LE,es,Honduras,HN
+"Ocotepeque",HN-OC,es,Honduras,HN
+"Olancho",HN-OL,es,Honduras,HN
+"Santa Barbara",HN-SB,es,Honduras,HN
+"Valle",HN-VA,es,Honduras,HN
+"Yoro",HN-YO,es,Honduras,HN
+"Bjelovarsko-bilogorska zupanija",HR-07,hr,Croatia,HR
+"Brodsko-posavska zupanija",HR-12,hr,Croatia,HR
+"Dubrovacko-neretvanska zupanija",HR-19,hr,Croatia,HR
+"Grad Zagreb",HR-21,hr,Croatia,HR
+"Istarska zupanija",HR-18,hr,Croatia,HR
+"Karlovacka zupanija",HR-04,hr,Croatia,HR
+"Koprivnicko-krizevacka zupanija",HR-06,hr,Croatia,HR
+"Krapinsko-zagorska zupanija",HR-02,hr,Croatia,HR
+"Licko-senjska zupanija",HR-09,hr,Croatia,HR
+"Medimurska zupanija",HR-20,hr,Croatia,HR
+"Osjecko-baranjska zupanija",HR-14,hr,Croatia,HR
+"Pozesko-slavonska zupanija",HR-11,hr,Croatia,HR
+"Primorsko-goranska zupanija",HR-08,hr,Croatia,HR
+"Sibensko-kninska zupanija",HR-15,hr,Croatia,HR
+"Sisacko-moslavacka zupanija",HR-03,hr,Croatia,HR
+"Splitsko-dalmatinska zupanija",HR-17,hr,Croatia,HR
+"Varazdinska zupanija",HR-05,hr,Croatia,HR
+"Viroviticko-podravska zupanija",HR-10,hr,Croatia,HR
+"Vukovarsko-srijemska zupanija",HR-16,hr,Croatia,HR
+"Zadarska zupanija",HR-13,hr,Croatia,HR
+"Zagrebacka zupanija",HR-01,hr,Croatia,HR
+"Bacs-Kiskun",HU-BK,hu,Hungary,HU
+"Baranya",HU-BA,hu,Hungary,HU
+"Bekes",HU-BE,hu,Hungary,HU
+"Borsod-Abauj-Zemplen",HU-BZ,hu,Hungary,HU
+"Budapest",HU-BU,hu,Hungary,HU
+"Csongrad",HU-CS,hu,Hungary,HU
+"Fejer",HU-FE,hu,Hungary,HU
+"Gyor-Moson-Sopron",HU-GS,hu,Hungary,HU
+"Hajdu-Bihar",HU-HB,hu,Hungary,HU
+"Heves",HU-HE,hu,Hungary,HU
+"Jasz-Nagykun-Szolnok",HU-JN,hu,Hungary,HU
+"Komarom-Esztergom",HU-KE,hu,Hungary,HU
+"Nograd",HU-NO,hu,Hungary,HU
+"Pest",HU-PE,hu,Hungary,HU
+"Somogy",HU-SO,hu,Hungary,HU
+"Szabolcs-Szatmar-Bereg",HU-SZ,hu,Hungary,HU
+"Tolna",HU-TO,hu,Hungary,HU
+"Vas",HU-VA,hu,Hungary,HU
+"Veszprem",HU-VE,hu,Hungary,HU
+"Zala",HU-ZA,hu,Hungary,HU
+"Austurland",IS-7,is,Iceland,IS
+"Hofudborgarsvaedi",IS-1,is,Iceland,IS
+"Nordurland eystra",IS-6,is,Iceland,IS
+"Nordurland vestra",IS-5,is,Iceland,IS
+"Sudurland",IS-8,is,Iceland,IS
+"Sudurnes",IS-2,is,Iceland,IS
+"Vestfirdir",IS-4,is,Iceland,IS
+"Vesturland",IS-3,is,Iceland,IS
+"Abruzzo",IT-65,it,Italy,IT
+"Basilicata",IT-77,it,Italy,IT
+"Calabria",IT-78,it,Italy,IT
+"Campania",IT-72,it,Italy,IT
+"Emilia-Romagna",IT-45,it,Italy,IT
+"Friuli-Venezia Giulia",IT-36,it,Italy,IT
+"Lazio",IT-62,it,Italy,IT
+"Liguria",IT-42,it,Italy,IT
+"Lombardia",IT-25,it,Italy,IT
+"Marche",IT-57,it,Italy,IT
+"Molise",IT-67,it,Italy,IT
+"Piemonte",IT-21,it,Italy,IT
+"Puglia",IT-75,it,Italy,IT
+"Sardegna",IT-88,it,Italy,IT
+"Sicilia",IT-82,it,Italy,IT
+"Toscana",IT-52,it,Italy,IT
+"Trentino-Alto Adige",IT-32,it,Italy,IT
+"Umbria",IT-55,it,Italy,IT
+"Valle d'Aosta",IT-23,it,Italy,IT
+"Veneto",IT-34,it,Italy,IT
+"Clarendon",JM-13,en,Jamaica,JM
+"Hanover",JM-09,en,Jamaica,JM
+"Kingston",JM-01,en,Jamaica,JM
+"Manchester",JM-12,en,Jamaica,JM
+"Portland",JM-04,en,Jamaica,JM
+"Saint Andrew",JM-02,en,Jamaica,JM
+"Saint Ann",JM-06,en,Jamaica,JM
+"Saint Catherine",JM-14,en,Jamaica,JM
+"Saint Elizabeth",JM-11,en,Jamaica,JM
+"Saint James",JM-08,en,Jamaica,JM
+"Saint Mary",JM-05,en,Jamaica,JM
+"Saint Thomas",JM-03,en,Jamaica,JM
+"Trelawny",JM-07,en,Jamaica,JM
+"Westmoreland",JM-10,en,Jamaica,JM
+"Aichi",JP-23,ja,Japan,JP
+"Akita",JP-05,ja,Japan,JP
+"Aomori",JP-02,ja,Japan,JP
+"Chiba",JP-12,ja,Japan,JP
+"Ehime",JP-38,ja,Japan,JP
+"Fukui",JP-18,ja,Japan,JP
+"Fukuoka",JP-40,ja,Japan,JP
+"Fukushima",JP-07,ja,Japan,JP
+"Gifu",JP-21,ja,Japan,JP
+"Gunma",JP-10,ja,Japan,JP
+"Hiroshima",JP-34,ja,Japan,JP
+"Hokkaido",JP-01,ja,Japan,JP
+"Hyogo",JP-28,ja,Japan,JP
+"Ibaraki",JP-08,ja,Japan,JP
+"Ishikawa",JP-17,ja,Japan,JP
+"Iwate",JP-03,ja,Japan,JP
+"Kagawa",JP-37,ja,Japan,JP
+"Kagoshima",JP-46,ja,Japan,JP
+"Kanagawa",JP-14,ja,Japan,JP
+"Kochi",JP-39,ja,Japan,JP
+"Kumamoto",JP-43,ja,Japan,JP
+"Kyoto",JP-26,ja,Japan,JP
+"Mie",JP-24,ja,Japan,JP
+"Miyagi",JP-04,ja,Japan,JP
+"Miyazaki",JP-45,ja,Japan,JP
+"Nagano",JP-20,ja,Japan,JP
+"Nagasaki",JP-42,ja,Japan,JP
+"Nara",JP-29,ja,Japan,JP
+"Niigata",JP-15,ja,Japan,JP
+"Oita",JP-44,ja,Japan,JP
+"Okayama",JP-33,ja,Japan,JP
+"Okinawa",JP-47,ja,Japan,JP
+"Osaka",JP-27,ja,Japan,JP
+"Saga",JP-41,ja,Japan,JP
+"Saitama",JP-11,ja,Japan,JP
+"Shiga",JP-25,ja,Japan,JP
+"Shimane",JP-32,ja,Japan,JP
+"Shizuoka",JP-22,ja,Japan,JP
+"Tochigi",JP-09,ja,Japan,JP
+"Tokushima",JP-36,ja,Japan,JP
+"Tokyo",JP-13,ja,Japan,JP
+"Tottori",JP-31,ja,Japan,JP
+"Toyama",JP-16,ja,Japan,JP
+"Wakayama",JP-30,ja,Japan,JP
+"Yamagata",JP-06,ja,Japan,JP
+"Yamaguchi",JP-35,ja,Japan,JP
+"Yamanashi",JP-19,ja,Japan,JP
+"Baringo",KE-01,en,Kenya,KE
+"Bomet",KE-02,en,Kenya,KE
+"Bungoma",KE-03,en,Kenya,KE
+"Busia",KE-04,en,Kenya,KE
+"Elgeyo/Marakwet",KE-05,en,Kenya,KE
+"Embu",KE-06,en,Kenya,KE
+"Garissa",KE-07,en,Kenya,KE
+"Homa Bay",KE-08,en,Kenya,KE
+"Isiolo",KE-09,en,Kenya,KE
+"Kajiado",KE-10,en,Kenya,KE
+"Kakamega",KE-11,en,Kenya,KE
+"Kericho",KE-12,en,Kenya,KE
+"Kiambu",KE-13,en,Kenya,KE
+"Kilifi",KE-14,en,Kenya,KE
+"Kirinyaga",KE-15,en,Kenya,KE
+"Kisii",KE-16,en,Kenya,KE
+"Kisumu",KE-17,en,Kenya,KE
+"Kitui",KE-18,en,Kenya,KE
+"Kwale",KE-19,en,Kenya,KE
+"Laikipia",KE-20,en,Kenya,KE
+"Lamu",KE-21,en,Kenya,KE
+"Machakos",KE-22,en,Kenya,KE
+"Makueni",KE-23,en,Kenya,KE
+"Mandera",KE-24,en,Kenya,KE
+"Marsabit",KE-25,en,Kenya,KE
+"Meru",KE-26,en,Kenya,KE
+"Migori",KE-27,en,Kenya,KE
+"Mombasa",KE-28,en,Kenya,KE
+"Murang'a",KE-29,en,Kenya,KE
+"Nairobi City",KE-30,en,Kenya,KE
+"Nakuru",KE-31,en,Kenya,KE
+"Nandi",KE-32,en,Kenya,KE
+"Narok",KE-33,en,Kenya,KE
+"Nyamira",KE-34,en,Kenya,KE
+"Nyandarua",KE-35,en,Kenya,KE
+"Nyeri",KE-36,en,Kenya,KE
+"Siaya",KE-38,en,Kenya,KE
+"Taita/Taveta",KE-39,en,Kenya,KE
+"Tharaka-Nithi",KE-41,en,Kenya,KE
+"Trans Nzoia",KE-42,en,Kenya,KE
+"Turkana",KE-43,en,Kenya,KE
+"Uasin Gishu",KE-44,en,Kenya,KE
+"Wajir",KE-46,en,Kenya,KE
+"Cayman Islands",-,en,Cayman Islands,KY
+"Alytaus apskritis",LT-AL,lt,Lithuania,LT
+"Kauno apskritis",LT-KU,lt,Lithuania,LT
+"Klaipedos apskritis",LT-KL,lt,Lithuania,LT
+"Marijampoles apskritis",LT-MR,lt,Lithuania,LT
+"Panevezio apskritis",LT-PN,lt,Lithuania,LT
+"Siauliu apskritis",LT-SA,lt,Lithuania,LT
+"Taurages apskritis",LT-TA,lt,Lithuania,LT
+"Telsiu apskritis",LT-TE,lt,Lithuania,LT
+"Utenos apskritis",LT-UT,lt,Lithuania,LT
+"Vilniaus apskritis",LT-VL,lt,Lithuania,LT
+"Beni-Mellal-Khenifra",MA-05,ar,Morocco,MA
+"Casablanca-Settat",MA-06,ar,Morocco,MA
+"Draa-Tafilalet",MA-08,ar,Morocco,MA
+"Fes- Meknes",MA-03,ar,Morocco,MA
+"Guelmim-Oued Noun (EH-partial)",MA-10,ar,Morocco,MA
+"L'Oriental",MA-02,ar,Morocco,MA
+"Laayoune-Sakia El Hamra (EH-partial)",MA-11,ar,Morocco,MA
+"Marrakech-Safi",MA-07,ar,Morocco,MA
+"Rabat-Sale-Kenitra",MA-04,ar,Morocco,MA
+"Souss-Massa",MA-09,ar,Morocco,MA
+"Tanger-Tetouan-Al Hoceima",MA-01,ar,Morocco,MA
+"Bayan-Olgiy",MN-071,mn,Mongolia,MN
+"Dornogovi",MN-063,mn,Mongolia,MN
+"Govi-Altay",MN-065,mn,Mongolia,MN
+"Omnogovi",MN-053,mn,Mongolia,MN
+"Orhon",MN-035,mn,Mongolia,MN
+"Ovorhangay",MN-055,mn,Mongolia,MN
+"Selenge",MN-049,mn,Mongolia,MN
+"Tov",MN-047,mn,Mongolia,MN
+"Ulaanbaatar",MN-1,mn,Mongolia,MN
+"Black River",MU-BL,en,Mauritius,MU
+"Flacq",MU-FL,en,Mauritius,MU
+"Grand Port",MU-GP,en,Mauritius,MU
+"Moka",MU-MO,en,Mauritius,MU
+"Pamplemousses",MU-PA,en,Mauritius,MU
+"Plaines Wilhems",MU-PW,en,Mauritius,MU
+"Port Louis",MU-PL,en,Mauritius,MU
+"Riviere du Rempart",MU-RR,en,Mauritius,MU
+"Rodrigues Islands",MU-RO,en,Mauritius,MU
+"Savanne",MU-SA,en,Mauritius,MU
+"Aguascalientes",MX-AGU,es,Mexico,MX
+"Baja California",MX-BCN,es,Mexico,MX
+"Baja California Sur",MX-BCS,es,Mexico,MX
+"Campeche",MX-CAM,es,Mexico,MX
+"Chiapas",MX-CHP,es,Mexico,MX
+"Chihuahua",MX-CHH,es,Mexico,MX
+"Ciudad de Mexico",MX-CMX,es,Mexico,MX
+"Coahuila de Zaragoza",MX-COA,es,Mexico,MX
+"Colima",MX-COL,es,Mexico,MX
+"Durango",MX-DUR,es,Mexico,MX
+"Guanajuato",MX-GUA,es,Mexico,MX
+"Guerrero",MX-GRO,es,Mexico,MX
+"Hidalgo",MX-HID,es,Mexico,MX
+"Jalisco",MX-JAL,es,Mexico,MX
+"Mexico",MX-MEX,es,Mexico,MX
+"Michoacan de Ocampo",MX-MIC,es,Mexico,MX
+"Morelos",MX-MOR,es,Mexico,MX
+"Nayarit",MX-NAY,es,Mexico,MX
+"Nuevo Leon",MX-NLE,es,Mexico,MX
+"Oaxaca",MX-OAX,es,Mexico,MX
+"Puebla",MX-PUE,es,Mexico,MX
+"Queretaro",MX-QUE,es,Mexico,MX
+"Quintana Roo",MX-ROO,es,Mexico,MX
+"San Luis Potosi",MX-SLP,es,Mexico,MX
+"Sinaloa",MX-SIN,es,Mexico,MX
+"Sonora",MX-SON,es,Mexico,MX
+"Tabasco",MX-TAB,es,Mexico,MX
+"Tamaulipas",MX-TAM,es,Mexico,MX
+"Tlaxcala",MX-TLA,es,Mexico,MX
+"Veracruz de Ignacio de la Llave",MX-VER,es,Mexico,MX
+"Yucatan",MX-YUC,es,Mexico,MX
+"Zacatecas",MX-ZAC,es,Mexico,MX
+"Johor",MY-01,ms,Malaysia,MY
+"Kedah",MY-02,ms,Malaysia,MY
+"Kelantan",MY-03,ms,Malaysia,MY
+"Melaka",MY-04,ms,Malaysia,MY
+"Negeri Sembilan",MY-05,ms,Malaysia,MY
+"Pahang",MY-06,ms,Malaysia,MY
+"Perak",MY-08,ms,Malaysia,MY
+"Perlis",MY-09,ms,Malaysia,MY
+"Pulau Pinang",MY-07,ms,Malaysia,MY
+"Sabah",MY-12,ms,Malaysia,MY
+"Sarawak",MY-13,ms,Malaysia,MY
+"Selangor",MY-10,ms,Malaysia,MY
+"Terengganu",MY-11,ms,Malaysia,MY
+"Wilayah Persekutuan Kuala Lumpur",MY-14,ms,Malaysia,MY
+"Wilayah Persekutuan Labuan",MY-15,ms,Malaysia,MY
+"Wilayah Persekutuan Putrajaya",MY-16,ms,Malaysia,MY
+"Abia",NG-AB,en,Nigeria,NG
+"Abuja Federal Capital Territory",NG-FC,en,Nigeria,NG
+"Adamawa",NG-AD,en,Nigeria,NG
+"Akwa Ibom",NG-AK,en,Nigeria,NG
+"Anambra",NG-AN,en,Nigeria,NG
+"Bauchi",NG-BA,en,Nigeria,NG
+"Bayelsa",NG-BY,en,Nigeria,NG
+"Benue",NG-BE,en,Nigeria,NG
+"Borno",NG-BO,en,Nigeria,NG
+"Cross River",NG-CR,en,Nigeria,NG
+"Delta",NG-DE,en,Nigeria,NG
+"Ebonyi",NG-EB,en,Nigeria,NG
+"Edo",NG-ED,en,Nigeria,NG
+"Ekiti",NG-EK,en,Nigeria,NG
+"Enugu",NG-EN,en,Nigeria,NG
+"Gombe",NG-GO,en,Nigeria,NG
+"Imo",NG-IM,en,Nigeria,NG
+"Jigawa",NG-JI,en,Nigeria,NG
+"Kaduna",NG-KD,en,Nigeria,NG
+"Kano",NG-KN,en,Nigeria,NG
+"Katsina",NG-KT,en,Nigeria,NG
+"Kebbi",NG-KE,en,Nigeria,NG
+"Kogi",NG-KO,en,Nigeria,NG
+"Kwara",NG-KW,en,Nigeria,NG
+"Lagos",NG-LA,en,Nigeria,NG
+"Nasarawa",NG-NA,en,Nigeria,NG
+"Niger",NG-NI,en,Nigeria,NG
+"Ogun",NG-OG,en,Nigeria,NG
+"Ondo",NG-ON,en,Nigeria,NG
+"Osun",NG-OS,en,Nigeria,NG
+"Oyo",NG-OY,en,Nigeria,NG
+"Plateau",NG-PL,en,Nigeria,NG
+"Rivers",NG-RI,en,Nigeria,NG
+"Sokoto",NG-SO,en,Nigeria,NG
+"Taraba",NG-TA,en,Nigeria,NG
+"Yobe",NG-YO,en,Nigeria,NG
+"Zamfara",NG-ZA,en,Nigeria,NG
+"Boaco",NI-BO,es,Nicaragua,NI
+"Carazo",NI-CA,es,Nicaragua,NI
+"Chinandega",NI-CI,es,Nicaragua,NI
+"Chontales",NI-CO,es,Nicaragua,NI
+"Costa Caribe Norte",NI-AN,es,Nicaragua,NI
+"Costa Caribe Sur",NI-AS,es,Nicaragua,NI
+"Esteli",NI-ES,es,Nicaragua,NI
+"Granada",NI-GR,es,Nicaragua,NI
+"Jinotega",NI-JI,es,Nicaragua,NI
+"Leon",NI-LE,es,Nicaragua,NI
+"Madriz",NI-MD,es,Nicaragua,NI
+"Managua",NI-MN,es,Nicaragua,NI
+"Masaya",NI-MS,es,Nicaragua,NI
+"Matagalpa",NI-MT,es,Nicaragua,NI
+"Nueva Segovia",NI-NS,es,Nicaragua,NI
+"Rio San Juan",NI-SJ,es,Nicaragua,NI
+"Rivas",NI-RI,es,Nicaragua,NI
+"Drenthe",NL-DR,nl,Netherlands,NL
+"Flevoland",NL-FL,nl,Netherlands,NL
+"Fryslan",NL-FR,nl,Netherlands,NL
+"Gelderland",NL-GE,nl,Netherlands,NL
+"Groningen",NL-GR,nl,Netherlands,NL
+"Limburg",NL-LI,nl,Netherlands,NL
+"Noord-Brabant",NL-NB,nl,Netherlands,NL
+"Noord-Holland",NL-NH,nl,Netherlands,NL
+"Overijssel",NL-OV,nl,Netherlands,NL
+"Utrecht",NL-UT,nl,Netherlands,NL
+"Zeeland",NL-ZE,nl,Netherlands,NL
+"Zuid-Holland",NL-ZH,nl,Netherlands,NL
+"Akershus",NO-02,no,Norway,NO
+"Aust-Agder",NO-09,no,Norway,NO
+"Buskerud",NO-06,no,Norway,NO
+"Finnmark",NO-20,no,Norway,NO
+"Hedmark",NO-04,no,Norway,NO
+"Hordaland",NO-12,no,Norway,NO
+"More og Romsdal",NO-15,no,Norway,NO
+"Nord-Trondelag",NO-17,no,Norway,NO
+"Nordland",NO-18,no,Norway,NO
+"Oppland",NO-05,no,Norway,NO
+"Oslo",NO-03,no,Norway,NO
+"Ostfold",NO-01,no,Norway,NO
+"Rogaland",NO-11,no,Norway,NO
+"Sogn og Fjordane",NO-14,no,Norway,NO
+"Sor-Trondelag",NO-16,no,Norway,NO
+"Telemark",NO-08,no,Norway,NO
+"Troms",NO-19,no,Norway,NO
+"Vest-Agder",NO-10,no,Norway,NO
+"Vestfold",NO-07,no,Norway,NO
+"Auckland",NZ-AUK,en,New Zealand,NZ
+"Bay of Plenty",NZ-BOP,en,New Zealand,NZ
+"Canterbury",NZ-CAN,en,New Zealand,NZ
+"Chatham Islands Territory",NZ-CIT,en,New Zealand,NZ
+"Gisborne",NZ-GIS,en,New Zealand,NZ
+"Hawke's Bay",NZ-HKB,en,New Zealand,NZ
+"Manawatu-Wanganui",NZ-MWT,en,New Zealand,NZ
+"Marlborough",NZ-MBH,en,New Zealand,NZ
+"Nelson",NZ-NSN,en,New Zealand,NZ
+"Northland",NZ-NTL,en,New Zealand,NZ
+"Otago",NZ-OTA,en,New Zealand,NZ
+"Southland",NZ-STL,en,New Zealand,NZ
+"Taranaki",NZ-TKI,en,New Zealand,NZ
+"Tasman",NZ-TAS,en,New Zealand,NZ
+"Waikato",NZ-WKO,en,New Zealand,NZ
+"Wellington",NZ-WGN,en,New Zealand,NZ
+"West Coast",NZ-WTC,en,New Zealand,NZ
+"Bocas del Toro",PA-1,es,Panama,PA
+"Chiriqui",PA-4,es,Panama,PA
+"Cocle",PA-2,es,Panama,PA
+"Colon",PA-3,es,Panama,PA
+"Herrera",PA-6,es,Panama,PA
+"Los Santos",PA-7,es,Panama,PA
+"Ngobe-Bugle",PA-NB,es,Panama,PA
+"Panama",PA-8,es,Panama,PA
+"Veraguas",PA-9,es,Panama,PA
+"Amazonas",PE-AMA,es,Peru,PE
+"Ancash",PE-ANC,es,Peru,PE
+"Apurimac",PE-APU,es,Peru,PE
+"Arequipa",PE-ARE,es,Peru,PE
+"Ayacucho",PE-AYA,es,Peru,PE
+"Cajamarca",PE-CAJ,es,Peru,PE
+"Cusco",PE-CUS,es,Peru,PE
+"El Callao",PE-CAL,es,Peru,PE
+"Huancavelica",PE-HUV,es,Peru,PE
+"Huanuco",PE-HUC,es,Peru,PE
+"Ica",PE-ICA,es,Peru,PE
+"Junin",PE-JUN,es,Peru,PE
+"La Libertad",PE-LAL,es,Peru,PE
+"Lambayeque",PE-LAM,es,Peru,PE
+"Lima",PE-LIM,es,Peru,PE
+"Loreto",PE-LOR,es,Peru,PE
+"Madre de Dios",PE-MDD,es,Peru,PE
+"Moquegua",PE-MOQ,es,Peru,PE
+"Pasco",PE-PAS,es,Peru,PE
+"Piura",PE-PIU,es,Peru,PE
+"Puno",PE-PUN,es,Peru,PE
+"San Martin",PE-SAM,es,Peru,PE
+"Tacna",PE-TAC,es,Peru,PE
+"Tumbes",PE-TUM,es,Peru,PE
+"Ucayali",PE-UCA,es,Peru,PE
+"Bougainville",PG-NSB,en,Papua New Guinea,PG
+"Central",PG-CPM,en,Papua New Guinea,PG
+"Chimbu",PG-CPK,en,Papua New Guinea,PG
+"East New Britain",PG-EBR,en,Papua New Guinea,PG
+"East Sepik",PG-ESW,en,Papua New Guinea,PG
+"Eastern Highlands",PG-EHG,en,Papua New Guinea,PG
+"Madang",PG-MPM,en,Papua New Guinea,PG
+"Manus",PG-MRL,en,Papua New Guinea,PG
+"Milne Bay",PG-MBA,en,Papua New Guinea,PG
+"Morobe",PG-MPL,en,Papua New Guinea,PG
+"National Capital District (Port Moresby)",PG-NCD,en,Papua New Guinea,PG
+"New Ireland",PG-NIK,en,Papua New Guinea,PG
+"Southern Highlands",PG-SHM,en,Papua New Guinea,PG
+"West New Britain",PG-WBK,en,Papua New Guinea,PG
+"Western",PG-WPD,en,Papua New Guinea,PG
+"Western Highlands",PG-WHM,en,Papua New Guinea,PG
+"Abra",PH-ABR,en,Philippines,PH
+"Agusan del Norte",PH-AGN,en,Philippines,PH
+"Agusan del Sur",PH-AGS,en,Philippines,PH
+"Aklan",PH-AKL,en,Philippines,PH
+"Albay",PH-ALB,en,Philippines,PH
+"Antique",PH-ANT,en,Philippines,PH
+"Apayao",PH-APA,en,Philippines,PH
+"Aurora",PH-AUR,en,Philippines,PH
+"Basilan",PH-BAS,en,Philippines,PH
+"Bataan",PH-BAN,en,Philippines,PH
+"Batanes",PH-BTN,en,Philippines,PH
+"Batangas",PH-BTG,en,Philippines,PH
+"Benguet",PH-BEN,en,Philippines,PH
+"Biliran",PH-BIL,en,Philippines,PH
+"Bohol",PH-BOH,en,Philippines,PH
+"Bukidnon",PH-BUK,en,Philippines,PH
+"Bulacan",PH-BUL,en,Philippines,PH
+"Cagayan",PH-CAG,en,Philippines,PH
+"Camarines Norte",PH-CAN,en,Philippines,PH
+"Camarines Sur",PH-CAS,en,Philippines,PH
+"Camiguin",PH-CAM,en,Philippines,PH
+"Capiz",PH-CAP,en,Philippines,PH
+"Catanduanes",PH-CAT,en,Philippines,PH
+"Cavite",PH-CAV,en,Philippines,PH
+"Cebu",PH-CEB,en,Philippines,PH
+"Compostela Valley",PH-COM,en,Philippines,PH
+"Cotabato",PH-NCO,en,Philippines,PH
+"Davao Oriental",PH-DAO,en,Philippines,PH
+"Davao del Norte",PH-DAV,en,Philippines,PH
+"Davao del Sur",PH-DAS,en,Philippines,PH
+"Dinagat Islands",PH-DIN,en,Philippines,PH
+"Eastern Samar",PH-EAS,en,Philippines,PH
+"Guimaras",PH-GUI,en,Philippines,PH
+"Ifugao",PH-IFU,en,Philippines,PH
+"Ilocos Norte",PH-ILN,en,Philippines,PH
+"Ilocos Sur",PH-ILS,en,Philippines,PH
+"Iloilo",PH-ILI,en,Philippines,PH
+"Isabela",PH-ISA,en,Philippines,PH
+"La Union",PH-LUN,en,Philippines,PH
+"Laguna",PH-LAG,en,Philippines,PH
+"Lanao del Norte",PH-LAN,en,Philippines,PH
+"Lanao del Sur",PH-LAS,en,Philippines,PH
+"Leyte",PH-LEY,en,Philippines,PH
+"Maguindanao",PH-MAG,en,Philippines,PH
+"Marinduque",PH-MAD,en,Philippines,PH
+"Masbate",PH-MAS,en,Philippines,PH
+"Mindoro Occidental",PH-MDC,en,Philippines,PH
+"Mindoro Oriental",PH-MDR,en,Philippines,PH
+"Misamis Occidental",PH-MSC,en,Philippines,PH
+"Misamis Oriental",PH-MSR,en,Philippines,PH
+"Mountain Province",PH-MOU,en,Philippines,PH
+"National Capital Region",PH-00,en,Philippines,PH
+"Negros Occidental",PH-NEC,en,Philippines,PH
+"Negros Oriental",PH-NER,en,Philippines,PH
+"Northern Samar",PH-NSA,en,Philippines,PH
+"Nueva Ecija",PH-NUE,en,Philippines,PH
+"Nueva Vizcaya",PH-NUV,en,Philippines,PH
+"Palawan",PH-PLW,en,Philippines,PH
+"Pampanga",PH-PAM,en,Philippines,PH
+"Pangasinan",PH-PAN,en,Philippines,PH
+"Quezon",PH-QUE,en,Philippines,PH
+"Quirino",PH-QUI,en,Philippines,PH
+"Rizal",PH-RIZ,en,Philippines,PH
+"Romblon",PH-ROM,en,Philippines,PH
+"Samar",PH-WSA,en,Philippines,PH
+"Sarangani",PH-SAR,en,Philippines,PH
+"Siquijor",PH-SIG,en,Philippines,PH
+"Sorsogon",PH-SOR,en,Philippines,PH
+"South Cotabato",PH-SCO,en,Philippines,PH
+"Southern Leyte",PH-SLE,en,Philippines,PH
+"Sultan Kudarat",PH-SUK,en,Philippines,PH
+"Sulu",PH-SLU,en,Philippines,PH
+"Surigao del Norte",PH-SUN,en,Philippines,PH
+"Surigao del Sur",PH-SUR,en,Philippines,PH
+"Tarlac",PH-TAR,en,Philippines,PH
+"Tawi-Tawi",PH-TAW,en,Philippines,PH
+"Zambales",PH-ZMB,en,Philippines,PH
+"Zamboanga Sibugay",PH-ZSI,en,Philippines,PH
+"Zamboanga del Norte",PH-ZAN,en,Philippines,PH
+"Zamboanga del Sur",PH-ZAS,en,Philippines,PH
+"Azad Jammu and Kashmir",PK-JK,en,Pakistan,PK
+"Balochistan",PK-BA,en,Pakistan,PK
+"Federally Administered Tribal Areas",PK-TA,en,Pakistan,PK
+"Gilgit-Baltistan",PK-GB,en,Pakistan,PK
+"Islamabad",PK-IS,en,Pakistan,PK
+"Khyber Pakhtunkhwa",PK-KP,en,Pakistan,PK
+"Punjab",PK-PB,en,Pakistan,PK
+"Sindh",PK-SD,en,Pakistan,PK
+"Dolnoslaskie",PL-02,pl,Poland,PL
+"Kujawsko-pomorskie",PL-04,pl,Poland,PL
+"Lodzkie",PL-10,pl,Poland,PL
+"Lubelskie",PL-06,pl,Poland,PL
+"Lubuskie",PL-08,pl,Poland,PL
+"Malopolskie",PL-12,pl,Poland,PL
+"Mazowieckie",PL-14,pl,Poland,PL
+"Opolskie",PL-16,pl,Poland,PL
+"Podkarpackie",PL-18,pl,Poland,PL
+"Podlaskie",PL-20,pl,Poland,PL
+"Pomorskie",PL-22,pl,Poland,PL
+"Slaskie",PL-24,pl,Poland,PL
+"Swietokrzyskie",PL-26,pl,Poland,PL
+"Warminsko-mazurskie",PL-28,pl,Poland,PL
+"Wielkopolskie",PL-30,pl,Poland,PL
+"Zachodniopomorskie",PL-32,pl,Poland,PL
+"Aveiro",PT-01,pt,Portugal,PT
+"Beja",PT-02,pt,Portugal,PT
+"Braga",PT-03,pt,Portugal,PT
+"Braganca",PT-04,pt,Portugal,PT
+"Castelo Branco",PT-05,pt,Portugal,PT
+"Coimbra",PT-06,pt,Portugal,PT
+"Evora",PT-07,pt,Portugal,PT
+"Faro",PT-08,pt,Portugal,PT
+"Guarda",PT-09,pt,Portugal,PT
+"Leiria",PT-10,pt,Portugal,PT
+"Lisboa",PT-11,pt,Portugal,PT
+"Portalegre",PT-12,pt,Portugal,PT
+"Porto",PT-13,pt,Portugal,PT
+"Regiao Autonoma da Madeira",PT-30,pt,Portugal,PT
+"Regiao Autonoma dos Acores",PT-20,pt,Portugal,PT
+"Santarem",PT-14,pt,Portugal,PT
+"Setubal",PT-15,pt,Portugal,PT
+"Viana do Castelo",PT-16,pt,Portugal,PT
+"Vila Real",PT-17,pt,Portugal,PT
+"Viseu",PT-18,pt,Portugal,PT
+"Alto Paraguay",PY-16,es,Paraguay,PY
+"Alto Parana",PY-10,es,Paraguay,PY
+"Amambay",PY-13,es,Paraguay,PY
+"Asuncion",PY-ASU,es,Paraguay,PY
+"Boqueron",PY-19,es,Paraguay,PY
+"Caaguazu",PY-5,es,Paraguay,PY
+"Caazapa",PY-6,es,Paraguay,PY
+"Canindeyu",PY-14,es,Paraguay,PY
+"Central",PY-11,es,Paraguay,PY
+"Concepcion",PY-1,es,Paraguay,PY
+"Cordillera",PY-3,es,Paraguay,PY
+"Guaira",PY-4,es,Paraguay,PY
+"Itapua",PY-7,es,Paraguay,PY
+"Misiones",PY-8,es,Paraguay,PY
+"Neembucu",PY-12,es,Paraguay,PY
+"Paraguari",PY-9,es,Paraguay,PY
+"Presidente Hayes",PY-15,es,Paraguay,PY
+"San Pedro",PY-2,es,Paraguay,PY
+"'Asir",SA-14,ar,Saudi Arabia,SA
+"Al Bahah",SA-11,ar,Saudi Arabia,SA
+"Al Hudud ash Shamaliyah",SA-08,ar,Saudi Arabia,SA
+"Al Jawf",SA-12,ar,Saudi Arabia,SA
+"Al Madinah al Munawwarah",SA-03,ar,Saudi Arabia,SA
+"Al Qasim",SA-05,ar,Saudi Arabia,SA
+"Ar Riyad",SA-01,ar,Saudi Arabia,SA
+"Ash Sharqiyah",SA-04,ar,Saudi Arabia,SA
+"Ha'il",SA-06,ar,Saudi Arabia,SA
+"Jazan",SA-09,ar,Saudi Arabia,SA
+"Makkah al Mukarramah",SA-02,ar,Saudi Arabia,SA
+"Najran",SA-10,ar,Saudi Arabia,SA
+"Tabuk",SA-07,ar,Saudi Arabia,SA
+"Blekinge lan",SE-K,sv,Sweden,SE
+"Dalarnas lan",SE-W,sv,Sweden,SE
+"Gavleborgs lan",SE-X,sv,Sweden,SE
+"Gotlands lan",SE-I,sv,Sweden,SE
+"Hallands lan",SE-N,sv,Sweden,SE
+"Jamtlands lan",SE-Z,sv,Sweden,SE
+"Jonkopings lan",SE-F,sv,Sweden,SE
+"Kalmar lan",SE-H,sv,Sweden,SE
+"Kronobergs lan",SE-G,sv,Sweden,SE
+"Norrbottens lan",SE-BD,sv,Sweden,SE
+"Orebro lan",SE-T,sv,Sweden,SE
+"Ostergotlands lan",SE-E,sv,Sweden,SE
+"Skane lan",SE-M,sv,Sweden,SE
+"Sodermanlands lan",SE-D,sv,Sweden,SE
+"Stockholms lan",SE-AB,sv,Sweden,SE
+"Uppsala lan",SE-C,sv,Sweden,SE
+"Varmlands lan",SE-S,sv,Sweden,SE
+"Vasterbottens lan",SE-AC,sv,Sweden,SE
+"Vasternorrlands lan",SE-Y,sv,Sweden,SE
+"Vastmanlands lan",SE-U,sv,Sweden,SE
+"Vastra Gotalands lan",SE-O,sv,Sweden,SE
+"Singapore",-,en,Singapore,SG
+"Ajdovscina",SI-001,sl,Slovenia,SI
+"Apace",SI-195,sl,Slovenia,SI
+"Beltinci",SI-002,sl,Slovenia,SI
+"Benedikt",SI-148,sl,Slovenia,SI
+"Bistrica ob Sotli",SI-149,sl,Slovenia,SI
+"Bled",SI-003,sl,Slovenia,SI
+"Bloke",SI-150,sl,Slovenia,SI
+"Bohinj",SI-004,sl,Slovenia,SI
+"Borovnica",SI-005,sl,Slovenia,SI
+"Bovec",SI-006,sl,Slovenia,SI
+"Braslovce",SI-151,sl,Slovenia,SI
+"Brda",SI-007,sl,Slovenia,SI
+"Brezice",SI-009,sl,Slovenia,SI
+"Brezovica",SI-008,sl,Slovenia,SI
+"Cankova",SI-152,sl,Slovenia,SI
+"Celje",SI-011,sl,Slovenia,SI
+"Cerklje na Gorenjskem",SI-012,sl,Slovenia,SI
+"Cerknica",SI-013,sl,Slovenia,SI
+"Cerkno",SI-014,sl,Slovenia,SI
+"Cirkulane",SI-196,sl,Slovenia,SI
+"Crensovci",SI-015,sl,Slovenia,SI
+"Crnomelj",SI-017,sl,Slovenia,SI
+"Destrnik",SI-018,sl,Slovenia,SI
+"Divaca",SI-019,sl,Slovenia,SI
+"Dobje",SI-154,sl,Slovenia,SI
+"Dobrepolje",SI-020,sl,Slovenia,SI
+"Dobrna",SI-155,sl,Slovenia,SI
+"Dobrova-Polhov Gradec",SI-021,sl,Slovenia,SI
+"Dobrovnik",SI-156,sl,Slovenia,SI
+"Domzale",SI-023,sl,Slovenia,SI
+"Dornava",SI-024,sl,Slovenia,SI
+"Dravograd",SI-025,sl,Slovenia,SI
+"Duplek",SI-026,sl,Slovenia,SI
+"Gorje",SI-207,sl,Slovenia,SI
+"Gornja Radgona",SI-029,sl,Slovenia,SI
+"Gornji Petrovci",SI-031,sl,Slovenia,SI
+"Grad",SI-158,sl,Slovenia,SI
+"Grosuplje",SI-032,sl,Slovenia,SI
+"Hajdina",SI-159,sl,Slovenia,SI
+"Hoce-Slivnica",SI-160,sl,Slovenia,SI
+"Hodos",SI-161,sl,Slovenia,SI
+"Horjul",SI-162,sl,Slovenia,SI
+"Hrastnik",SI-034,sl,Slovenia,SI
+"Hrpelje-Kozina",SI-035,sl,Slovenia,SI
+"Idrija",SI-036,sl,Slovenia,SI
+"Ig",SI-037,sl,Slovenia,SI
+"Ilirska Bistrica",SI-038,sl,Slovenia,SI
+"Ivancna Gorica",SI-039,sl,Slovenia,SI
+"Izola",SI-040,sl,Slovenia,SI
+"Jesenice",SI-041,sl,Slovenia,SI
+"Jursinci",SI-042,sl,Slovenia,SI
+"Kamnik",SI-043,sl,Slovenia,SI
+"Kanal",SI-044,sl,Slovenia,SI
+"Kidricevo",SI-045,sl,Slovenia,SI
+"Kobarid",SI-046,sl,Slovenia,SI
+"Kobilje",SI-047,sl,Slovenia,SI
+"Kocevje",SI-048,sl,Slovenia,SI
+"Komen",SI-049,sl,Slovenia,SI
+"Komenda",SI-164,sl,Slovenia,SI
+"Koper",SI-050,sl,Slovenia,SI
+"Kosanjevica na Krki",SI-197,sl,Slovenia,SI
+"Kostel",SI-165,sl,Slovenia,SI
+"Kranj",SI-052,sl,Slovenia,SI
+"Kranjska Gora",SI-053,sl,Slovenia,SI
+"Krizevci",SI-166,sl,Slovenia,SI
+"Krsko",SI-054,sl,Slovenia,SI
+"Kungota",SI-055,sl,Slovenia,SI
+"Kuzma",SI-056,sl,Slovenia,SI
+"Lasko",SI-057,sl,Slovenia,SI
+"Lenart",SI-058,sl,Slovenia,SI
+"Lendava",SI-059,sl,Slovenia,SI
+"Litija",SI-060,sl,Slovenia,SI
+"Ljubljana",SI-061,sl,Slovenia,SI
+"Ljutomer",SI-063,sl,Slovenia,SI
+"Log-Dragomer",SI-208,sl,Slovenia,SI
+"Logatec",SI-064,sl,Slovenia,SI
+"Loska Dolina",SI-065,sl,Slovenia,SI
+"Lovrenc na Pohorju",SI-167,sl,Slovenia,SI
+"Luce",SI-067,sl,Slovenia,SI
+"Lukovica",SI-068,sl,Slovenia,SI
+"Majsperk",SI-069,sl,Slovenia,SI
+"Makole",SI-198,sl,Slovenia,SI
+"Maribor",SI-070,sl,Slovenia,SI
+"Markovci",SI-168,sl,Slovenia,SI
+"Medvode",SI-071,sl,Slovenia,SI
+"Menges",SI-072,sl,Slovenia,SI
+"Metlika",SI-073,sl,Slovenia,SI
+"Mezica",SI-074,sl,Slovenia,SI
+"Miklavz na Dravskem Polju",SI-169,sl,Slovenia,SI
+"Miren-Kostanjevica",SI-075,sl,Slovenia,SI
+"Mirna Pec",SI-170,sl,Slovenia,SI
+"Mislinja",SI-076,sl,Slovenia,SI
+"Mokronog-Trebelno",SI-199,sl,Slovenia,SI
+"Moravce",SI-077,sl,Slovenia,SI
+"Mozirje",SI-079,sl,Slovenia,SI
+"Murska Sobota",SI-080,sl,Slovenia,SI
+"Muta",SI-081,sl,Slovenia,SI
+"Naklo",SI-082,sl,Slovenia,SI
+"Nazarje",SI-083,sl,Slovenia,SI
+"Nova Gorica",SI-084,sl,Slovenia,SI
+"Novo Mesto",SI-085,sl,Slovenia,SI
+"Odranci",SI-086,sl,Slovenia,SI
+"Oplotnica",SI-171,sl,Slovenia,SI
+"Ormoz",SI-087,sl,Slovenia,SI
+"Piran",SI-090,sl,Slovenia,SI
+"Pivka",SI-091,sl,Slovenia,SI
+"Podcetrtek",SI-092,sl,Slovenia,SI
+"Podlehnik",SI-172,sl,Slovenia,SI
+"Poljcane",SI-200,sl,Slovenia,SI
+"Polzela",SI-173,sl,Slovenia,SI
+"Postojna",SI-094,sl,Slovenia,SI
+"Prebold",SI-174,sl,Slovenia,SI
+"Preddvor",SI-095,sl,Slovenia,SI
+"Prevalje",SI-175,sl,Slovenia,SI
+"Ptuj",SI-096,sl,Slovenia,SI
+"Puconci",SI-097,sl,Slovenia,SI
+"Race-Fram",SI-098,sl,Slovenia,SI
+"Radece",SI-099,sl,Slovenia,SI
+"Radenci",SI-100,sl,Slovenia,SI
+"Radlje ob Dravi",SI-101,sl,Slovenia,SI
+"Radovljica",SI-102,sl,Slovenia,SI
+"Ravne na Koroskem",SI-103,sl,Slovenia,SI
+"Razkrizje",SI-176,sl,Slovenia,SI
+"Recica ob Savinji",SI-209,sl,Slovenia,SI
+"Rence-Vogrsko",SI-201,sl,Slovenia,SI
+"Ribnica",SI-104,sl,Slovenia,SI
+"Rogaska Slatina",SI-106,sl,Slovenia,SI
+"Rogasovci",SI-105,sl,Slovenia,SI
+"Ruse",SI-108,sl,Slovenia,SI
+"Salovci",SI-033,sl,Slovenia,SI
+"Semic",SI-109,sl,Slovenia,SI
+"Sempeter-Vrtojba",SI-183,sl,Slovenia,SI
+"Sencur",SI-117,sl,Slovenia,SI
+"Sentilj",SI-118,sl,Slovenia,SI
+"Sentjernej",SI-119,sl,Slovenia,SI
+"Sentjur",SI-120,sl,Slovenia,SI
+"Sentrupert",SI-211,sl,Slovenia,SI
+"Sevnica",SI-110,sl,Slovenia,SI
+"Sezana",SI-111,sl,Slovenia,SI
+"Skocjan",SI-121,sl,Slovenia,SI
+"Skofja Loka",SI-122,sl,Slovenia,SI
+"Skofljica",SI-123,sl,Slovenia,SI
+"Slovenj Gradec",SI-112,sl,Slovenia,SI
+"Slovenska Bistrica",SI-113,sl,Slovenia,SI
+"Slovenske Konjice",SI-114,sl,Slovenia,SI
+"Smarje pri Jelsah",SI-124,sl,Slovenia,SI
+"Smarjeske Toplice",SI-206,sl,Slovenia,SI
+"Smartno ob Paki",SI-125,sl,Slovenia,SI
+"Smartno pri Litiji",SI-194,sl,Slovenia,SI
+"Sodrazica",SI-179,sl,Slovenia,SI
+"Solcava",SI-180,sl,Slovenia,SI
+"Sostanj",SI-126,sl,Slovenia,SI
+"Starse",SI-115,sl,Slovenia,SI
+"Store",SI-127,sl,Slovenia,SI
+"Straza",SI-203,sl,Slovenia,SI
+"Sveta Trojica v Slovenskih Goricah",SI-204,sl,Slovenia,SI
+"Sveti Andraz v Slovenskih Goricah",SI-182,sl,Slovenia,SI
+"Sveti Jurij",SI-116,sl,Slovenia,SI
+"Sveti Jurij v Slovenskih Goricah",SI-210,sl,Slovenia,SI
+"Sveti Tomaz",SI-205,sl,Slovenia,SI
+"Tabor",SI-184,sl,Slovenia,SI
+"Tisina",SI-010,sl,Slovenia,SI
+"Tolmin",SI-128,sl,Slovenia,SI
+"Trbovlje",SI-129,sl,Slovenia,SI
+"Trebnje",SI-130,sl,Slovenia,SI
+"Trnovska Vas",SI-185,sl,Slovenia,SI
+"Trzic",SI-131,sl,Slovenia,SI
+"Trzin",SI-186,sl,Slovenia,SI
+"Turnisce",SI-132,sl,Slovenia,SI
+"Velenje",SI-133,sl,Slovenia,SI
+"Velika Polana",SI-187,sl,Slovenia,SI
+"Velike Lasce",SI-134,sl,Slovenia,SI
+"Verzej",SI-188,sl,Slovenia,SI
+"Videm",SI-135,sl,Slovenia,SI
+"Vipava",SI-136,sl,Slovenia,SI
+"Vitanje",SI-137,sl,Slovenia,SI
+"Vodice",SI-138,sl,Slovenia,SI
+"Vojnik",SI-139,sl,Slovenia,SI
+"Vransko",SI-189,sl,Slovenia,SI
+"Vrhnika",SI-140,sl,Slovenia,SI
+"Vuzenica",SI-141,sl,Slovenia,SI
+"Zagorje ob Savi",SI-142,sl,Slovenia,SI
+"Zalec",SI-190,sl,Slovenia,SI
+"Zavrc",SI-143,sl,Slovenia,SI
+"Zelezniki",SI-146,sl,Slovenia,SI
+"Zetale",SI-191,sl,Slovenia,SI
+"Ziri",SI-147,sl,Slovenia,SI
+"Zrece",SI-144,sl,Slovenia,SI
+"Zuzemberk",SI-193,sl,Slovenia,SI
+"Banskobystricky kraj",SK-BC,sk,Slovakia,SK
+"Bratislavsky kraj",SK-BL,sk,Slovakia,SK
+"Kosicky kraj",SK-KI,sk,Slovakia,SK
+"Nitriansky kraj",SK-NI,sk,Slovakia,SK
+"Presovsky kraj",SK-PV,sk,Slovakia,SK
+"Trenciansky kraj",SK-TC,sk,Slovakia,SK
+"Trnavsky kraj",SK-TA,sk,Slovakia,SK
+"Zilinsky kraj",SK-ZI,sk,Slovakia,SK
+"Dakar",SN-DK,fr,Senegal,SN
+"Diourbel",SN-DB,fr,Senegal,SN
+"Fatick",SN-FK,fr,Senegal,SN
+"Kaffrine",SN-KA,fr,Senegal,SN
+"Kaolack",SN-KL,fr,Senegal,SN
+"Kolda",SN-KD,fr,Senegal,SN
+"Louga",SN-LG,fr,Senegal,SN
+"Matam",SN-MT,fr,Senegal,SN
+"Saint-Louis",SN-SL,fr,Senegal,SN
+"Tambacounda",SN-TC,fr,Senegal,SN
+"Thies",SN-TH,fr,Senegal,SN
+"Ziguinchor",SN-ZG,fr,Senegal,SN
+"Ahuachapan",SV-AH,es,El Salvador,SV
+"Cabanas",SV-CA,es,El Salvador,SV
+"Chalatenango",SV-CH,es,El Salvador,SV
+"Cuscatlan",SV-CU,es,El Salvador,SV
+"La Libertad",SV-LI,es,El Salvador,SV
+"La Paz",SV-PA,es,El Salvador,SV
+"La Union",SV-UN,es,El Salvador,SV
+"Morazan",SV-MO,es,El Salvador,SV
+"San Miguel",SV-SM,es,El Salvador,SV
+"San Salvador",SV-SS,es,El Salvador,SV
+"San Vicente",SV-SV,es,El Salvador,SV
+"Santa Ana",SV-SA,es,El Salvador,SV
+"Sonsonate",SV-SO,es,El Salvador,SV
+"Usulutan",SV-US,es,El Salvador,SV
+"Amnat Charoen",TH-37,th,Thailand,TH
+"Ang Thong",TH-15,th,Thailand,TH
+"Bueng Kan",TH-38,th,Thailand,TH
+"Buri Ram",TH-31,th,Thailand,TH
+"Chachoengsao",TH-24,th,Thailand,TH
+"Chai Nat",TH-18,th,Thailand,TH
+"Chaiyaphum",TH-36,th,Thailand,TH
+"Chanthaburi",TH-22,th,Thailand,TH
+"Chiang Mai",TH-50,th,Thailand,TH
+"Chiang Rai",TH-57,th,Thailand,TH
+"Chon Buri",TH-20,th,Thailand,TH
+"Chumphon",TH-86,th,Thailand,TH
+"Kalasin",TH-46,th,Thailand,TH
+"Kamphaeng Phet",TH-62,th,Thailand,TH
+"Kanchanaburi",TH-71,th,Thailand,TH
+"Khon Kaen",TH-40,th,Thailand,TH
+"Krabi",TH-81,th,Thailand,TH
+"Krung Thep Maha Nakhon",TH-10,th,Thailand,TH
+"Lampang",TH-52,th,Thailand,TH
+"Lamphun",TH-51,th,Thailand,TH
+"Loei",TH-42,th,Thailand,TH
+"Lop Buri",TH-16,th,Thailand,TH
+"Mae Hong Son",TH-58,th,Thailand,TH
+"Maha Sarakham",TH-44,th,Thailand,TH
+"Mukdahan",TH-49,th,Thailand,TH
+"Nakhon Nayok",TH-26,th,Thailand,TH
+"Nakhon Pathom",TH-73,th,Thailand,TH
+"Nakhon Phanom",TH-48,th,Thailand,TH
+"Nakhon Ratchasima",TH-30,th,Thailand,TH
+"Nakhon Sawan",TH-60,th,Thailand,TH
+"Nakhon Si Thammarat",TH-80,th,Thailand,TH
+"NaN",TH-55,th,Thailand,TH
+"Narathiwat",TH-96,th,Thailand,TH
+"Nong Bua Lam Phu",TH-39,th,Thailand,TH
+"Nong Khai",TH-43,th,Thailand,TH
+"Nonthaburi",TH-12,th,Thailand,TH
+"Pathum Thani",TH-13,th,Thailand,TH
+"Pattani",TH-94,th,Thailand,TH
+"Phangnga",TH-82,th,Thailand,TH
+"Phatthalung",TH-93,th,Thailand,TH
+"Phayao",TH-56,th,Thailand,TH
+"Phetchabun",TH-67,th,Thailand,TH
+"Phetchaburi",TH-76,th,Thailand,TH
+"Phichit",TH-66,th,Thailand,TH
+"Phitsanulok",TH-65,th,Thailand,TH
+"Phra Nakhon Si Ayutthaya",TH-14,th,Thailand,TH
+"Phrae",TH-54,th,Thailand,TH
+"Phuket",TH-83,th,Thailand,TH
+"Prachin Buri",TH-25,th,Thailand,TH
+"Prachuap Khiri Khan",TH-77,th,Thailand,TH
+"Ranong",TH-85,th,Thailand,TH
+"Ratchaburi",TH-70,th,Thailand,TH
+"Rayong",TH-21,th,Thailand,TH
+"Roi Et",TH-45,th,Thailand,TH
+"Sa Kaeo",TH-27,th,Thailand,TH
+"Sakon Nakhon",TH-47,th,Thailand,TH
+"Samut Prakan",TH-11,th,Thailand,TH
+"Samut Sakhon",TH-74,th,Thailand,TH
+"Samut Songkhram",TH-75,th,Thailand,TH
+"Saraburi",TH-19,th,Thailand,TH
+"Satun",TH-91,th,Thailand,TH
+"Si Sa Ket",TH-33,th,Thailand,TH
+"Sing Buri",TH-17,th,Thailand,TH
+"Songkhla",TH-90,th,Thailand,TH
+"Sukhothai",TH-64,th,Thailand,TH
+"Suphan Buri",TH-72,th,Thailand,TH
+"Surat Thani",TH-84,th,Thailand,TH
+"Surin",TH-32,th,Thailand,TH
+"Tak",TH-63,th,Thailand,TH
+"Trang",TH-92,th,Thailand,TH
+"Trat",TH-23,th,Thailand,TH
+"Ubon Ratchathani",TH-34,th,Thailand,TH
+"Udon Thani",TH-41,th,Thailand,TH
+"Uthai Thani",TH-61,th,Thailand,TH
+"Uttaradit",TH-53,th,Thailand,TH
+"Yala",TH-95,th,Thailand,TH
+"Yasothon",TH-35,th,Thailand,TH
+"Adana",TR-01,tr,Turkey,TR
+"Adiyaman",TR-02,tr,Turkey,TR
+"Afyonkarahisar",TR-03,tr,Turkey,TR
+"Agri",TR-04,tr,Turkey,TR
+"Aksaray",TR-68,tr,Turkey,TR
+"Amasya",TR-05,tr,Turkey,TR
+"Ankara",TR-06,tr,Turkey,TR
+"Antalya",TR-07,tr,Turkey,TR
+"Ardahan",TR-75,tr,Turkey,TR
+"Artvin",TR-08,tr,Turkey,TR
+"Aydin",TR-09,tr,Turkey,TR
+"Balikesir",TR-10,tr,Turkey,TR
+"Bartin",TR-74,tr,Turkey,TR
+"Batman",TR-72,tr,Turkey,TR
+"Bayburt",TR-69,tr,Turkey,TR
+"Bilecik",TR-11,tr,Turkey,TR
+"Bingol",TR-12,tr,Turkey,TR
+"Bitlis",TR-13,tr,Turkey,TR
+"Bolu",TR-14,tr,Turkey,TR
+"Burdur",TR-15,tr,Turkey,TR
+"Bursa",TR-16,tr,Turkey,TR
+"Canakkale",TR-17,tr,Turkey,TR
+"Cankiri",TR-18,tr,Turkey,TR
+"Corum",TR-19,tr,Turkey,TR
+"Denizli",TR-20,tr,Turkey,TR
+"Diyarbakir",TR-21,tr,Turkey,TR
+"Duzce",TR-81,tr,Turkey,TR
+"Edirne",TR-22,tr,Turkey,TR
+"Elazig",TR-23,tr,Turkey,TR
+"Erzincan",TR-24,tr,Turkey,TR
+"Erzurum",TR-25,tr,Turkey,TR
+"Eskisehir",TR-26,tr,Turkey,TR
+"Gaziantep",TR-27,tr,Turkey,TR
+"Giresun",TR-28,tr,Turkey,TR
+"Gumushane",TR-29,tr,Turkey,TR
+"Hakkari",TR-30,tr,Turkey,TR
+"Hatay",TR-31,tr,Turkey,TR
+"Igdir",TR-76,tr,Turkey,TR
+"Isparta",TR-32,tr,Turkey,TR
+"Istanbul",TR-34,tr,Turkey,TR
+"Izmir",TR-35,tr,Turkey,TR
+"Kahramanmaras",TR-46,tr,Turkey,TR
+"Karabuk",TR-78,tr,Turkey,TR
+"Karaman",TR-70,tr,Turkey,TR
+"Kars",TR-36,tr,Turkey,TR
+"Kastamonu",TR-37,tr,Turkey,TR
+"Kayseri",TR-38,tr,Turkey,TR
+"Kilis",TR-79,tr,Turkey,TR
+"Kirikkale",TR-71,tr,Turkey,TR
+"Kirklareli",TR-39,tr,Turkey,TR
+"Kirsehir",TR-40,tr,Turkey,TR
+"Kocaeli",TR-41,tr,Turkey,TR
+"Konya",TR-42,tr,Turkey,TR
+"Kutahya",TR-43,tr,Turkey,TR
+"Malatya",TR-44,tr,Turkey,TR
+"Manisa",TR-45,tr,Turkey,TR
+"Mardin",TR-47,tr,Turkey,TR
+"Mersin",TR-33,tr,Turkey,TR
+"Mugla",TR-48,tr,Turkey,TR
+"Mus",TR-49,tr,Turkey,TR
+"Nevsehir",TR-50,tr,Turkey,TR
+"Nigde",TR-51,tr,Turkey,TR
+"Ordu",TR-52,tr,Turkey,TR
+"Osmaniye",TR-80,tr,Turkey,TR
+"Rize",TR-53,tr,Turkey,TR
+"Sakarya",TR-54,tr,Turkey,TR
+"Samsun",TR-55,tr,Turkey,TR
+"Sanliurfa",TR-63,tr,Turkey,TR
+"Siirt",TR-56,tr,Turkey,TR
+"Sinop",TR-57,tr,Turkey,TR
+"Sirnak",TR-73,tr,Turkey,TR
+"Sivas",TR-58,tr,Turkey,TR
+"Tekirdag",TR-59,tr,Turkey,TR
+"Tokat",TR-60,tr,Turkey,TR
+"Trabzon",TR-61,tr,Turkey,TR
+"Tunceli",TR-62,tr,Turkey,TR
+"Usak",TR-64,tr,Turkey,TR
+"Van",TR-65,tr,Turkey,TR
+"Yalova",TR-77,tr,Turkey,TR
+"Yozgat",TR-66,tr,Turkey,TR
+"Zonguldak",TR-67,tr,Turkey,TR
+"Arima",TT-ARI,en,Trinidad and Tobago,TT
+"Chaguanas",TT-CHA,en,Trinidad and Tobago,TT
+"Couva-Tabaquite-Talparo",TT-CTT,en,Trinidad and Tobago,TT
+"Diego Martin",TT-DMN,en,Trinidad and Tobago,TT
+"Mayaro-Rio Claro",TT-MRC,en,Trinidad and Tobago,TT
+"Penal-Debe",TT-PED,en,Trinidad and Tobago,TT
+"Point Fortin",TT-PTF,en,Trinidad and Tobago,TT
+"Port of Spain",TT-POS,en,Trinidad and Tobago,TT
+"Princes Town",TT-PRT,en,Trinidad and Tobago,TT
+"San Fernando",TT-SFO,en,Trinidad and Tobago,TT
+"San Juan-Laventille",TT-SJL,en,Trinidad and Tobago,TT
+"Sangre Grande",TT-SGE,en,Trinidad and Tobago,TT
+"Siparia",TT-SIP,en,Trinidad and Tobago,TT
+"Tobago",TT-TOB,en,Trinidad and Tobago,TT
+"Tunapuna-Piarco",TT-TUP,en,Trinidad and Tobago,TT
+"Avtonomna Respublika Krym",UA-43,uk,Ukraine,UA
+"Cherkaska oblast",UA-71,uk,Ukraine,UA
+"Chernihivska oblast",UA-74,uk,Ukraine,UA
+"Chernivetska oblast",UA-77,uk,Ukraine,UA
+"Dnipropetrovska oblast",UA-12,uk,Ukraine,UA
+"Donetska oblast",UA-14,uk,Ukraine,UA
+"Ivano-Frankivska oblast",UA-26,uk,Ukraine,UA
+"Kharkivska oblast",UA-63,uk,Ukraine,UA
+"Khersonska oblast",UA-65,uk,Ukraine,UA
+"Khmelnytska oblast",UA-68,uk,Ukraine,UA
+"Kirovohradska oblast",UA-35,uk,Ukraine,UA
+"Kyiv",UA-30,uk,Ukraine,UA
+"Kyivska oblast",UA-32,uk,Ukraine,UA
+"Luhanska oblast",UA-09,uk,Ukraine,UA
+"Lvivska oblast",UA-46,uk,Ukraine,UA
+"Mykolaivska oblast",UA-48,uk,Ukraine,UA
+"Odeska oblast",UA-51,uk,Ukraine,UA
+"Poltavska oblast",UA-53,uk,Ukraine,UA
+"Rivnenska oblast",UA-56,uk,Ukraine,UA
+"Sevastopol",UA-40,uk,Ukraine,UA
+"Sumska oblast",UA-59,uk,Ukraine,UA
+"Ternopilska oblast",UA-61,uk,Ukraine,UA
+"Vinnytska oblast",UA-05,uk,Ukraine,UA
+"Volynska oblast",UA-07,uk,Ukraine,UA
+"Zakarpatska oblast",UA-21,uk,Ukraine,UA
+"Zaporizka oblast",UA-23,uk,Ukraine,UA
+"Zhytomyrska oblast",UA-18,uk,Ukraine,UA
+"Artigas",UY-AR,es,Uruguay,UY
+"Canelones",UY-CA,es,Uruguay,UY
+"Cerro Largo",UY-CL,es,Uruguay,UY
+"Colonia",UY-CO,es,Uruguay,UY
+"Durazno",UY-DU,es,Uruguay,UY
+"Flores",UY-FS,es,Uruguay,UY
+"Florida",UY-FD,es,Uruguay,UY
+"Lavalleja",UY-LA,es,Uruguay,UY
+"Maldonado",UY-MA,es,Uruguay,UY
+"Montevideo",UY-MO,es,Uruguay,UY
+"Paysandu",UY-PA,es,Uruguay,UY
+"Rio Negro",UY-RN,es,Uruguay,UY
+"Rivera",UY-RV,es,Uruguay,UY
+"Rocha",UY-RO,es,Uruguay,UY
+"Salto",UY-SA,es,Uruguay,UY
+"San Jose",UY-SJ,es,Uruguay,UY
+"Soriano",UY-SO,es,Uruguay,UY
+"Tacuarembo",UY-TA,es,Uruguay,UY
+"Treinta y Tres",UY-TT,es,Uruguay,UY
+"Eastern Cape",ZA-EC,af,South Africa,ZA
+"Free State",ZA-FS,af,South Africa,ZA
+"Gauteng",ZA-GP,af,South Africa,ZA
+"Kwazulu-Natal",ZA-KZN,af,South Africa,ZA
+"Limpopo",ZA-LP,af,South Africa,ZA
+"Mpumalanga",ZA-MP,af,South Africa,ZA
+"North-West",ZA-NW,af,South Africa,ZA
+"Northern Cape",ZA-NC,af,South Africa,ZA
+"Western Cape",ZA-WC,af,South Africa,ZA
+"Chuquisaca",BO-H,es,Bolivia (Plurinational State of),BO
+"Cochabamba",BO-C,es,Bolivia (Plurinational State of),BO
+"El Beni",BO-B,es,Bolivia (Plurinational State of),BO
+"La Paz",BO-L,es,Bolivia (Plurinational State of),BO
+"Oruro",BO-O,es,Bolivia (Plurinational State of),BO
+"Pando",BO-N,es,Bolivia (Plurinational State of),BO
+"Potosi",BO-P,es,Bolivia (Plurinational State of),BO
+"Santa Cruz",BO-S,es,Bolivia (Plurinational State of),BO
+"Tarija",BO-T,es,Bolivia (Plurinational State of),BO
+"Jihocesky kraj",CZ-31,cs,Czechia,CZ
+"Jihomoravsky kraj",CZ-64,cs,Czechia,CZ
+"Karlovarsky kraj",CZ-41,cs,Czechia,CZ
+"Kraj Vysocina",CZ-63,cs,Czechia,CZ
+"Kralovehradecky kraj",CZ-52,cs,Czechia,CZ
+"Liberecky kraj",CZ-51,cs,Czechia,CZ
+"Moravskoslezsky kraj",CZ-80,cs,Czechia,CZ
+"Olomoucky kraj",CZ-71,cs,Czechia,CZ
+"Pardubicky kraj",CZ-53,cs,Czechia,CZ
+"Plzensky kraj",CZ-32,cs,Czechia,CZ
+"Praha, Hlavni mesto",CZ-10,cs,Czechia,CZ
+"Stredocesky kraj",CZ-20,cs,Czechia,CZ
+"Ustecky kraj",CZ-42,cs,Czechia,CZ
+"Zlinsky kraj",CZ-72,cs,Czechia,CZ
+"England",GB-ENG,en,United Kingdom of Great Britain and Northern Ireland,GB
+"Northern Ireland",GB-NIR,en,United Kingdom of Great Britain and Northern Ireland,GB
+"Scotland",GB-SCT,en,United Kingdom of Great Britain and Northern Ireland,GB
+"Wales",GB-WLS,en,United Kingdom of Great Britain and Northern Ireland,GB
+"Alborz",IR-32,fa,Iran (Islamic Republic of),IR
+"Ardabil",IR-03,fa,Iran (Islamic Republic of),IR
+"Azarbayjan-e Gharbi",IR-02,fa,Iran (Islamic Republic of),IR
+"Azarbayjan-e Sharqi",IR-01,fa,Iran (Islamic Republic of),IR
+"Bushehr",IR-06,fa,Iran (Islamic Republic of),IR
+"Chahar Mahal va Bakhtiari",IR-08,fa,Iran (Islamic Republic of),IR
+"Esfahan",IR-04,fa,Iran (Islamic Republic of),IR
+"Fars",IR-14,fa,Iran (Islamic Republic of),IR
+"Gilan",IR-19,fa,Iran (Islamic Republic of),IR
+"Golestan",IR-27,fa,Iran (Islamic Republic of),IR
+"Hamadan",IR-24,fa,Iran (Islamic Republic of),IR
+"Hormozgan",IR-23,fa,Iran (Islamic Republic of),IR
+"Ilam",IR-05,fa,Iran (Islamic Republic of),IR
+"Kerman",IR-15,fa,Iran (Islamic Republic of),IR
+"Kermanshah",IR-17,fa,Iran (Islamic Republic of),IR
+"Khorasan-e Jonubi",IR-29,fa,Iran (Islamic Republic of),IR
+"Khorasan-e Razavi",IR-30,fa,Iran (Islamic Republic of),IR
+"Khorasan-e Shomali",IR-31,fa,Iran (Islamic Republic of),IR
+"Khuzestan",IR-10,fa,Iran (Islamic Republic of),IR
+"Kohgiluyeh va Bowyer Ahmad",IR-18,fa,Iran (Islamic Republic of),IR
+"Kordestan",IR-16,fa,Iran (Islamic Republic of),IR
+"Lorestan",IR-20,fa,Iran (Islamic Republic of),IR
+"Markazi",IR-22,fa,Iran (Islamic Republic of),IR
+"Mazandaran",IR-21,fa,Iran (Islamic Republic of),IR
+"Qazvin",IR-28,fa,Iran (Islamic Republic of),IR
+"Qom",IR-26,fa,Iran (Islamic Republic of),IR
+"Semnan",IR-12,fa,Iran (Islamic Republic of),IR
+"Sistan va Baluchestan",IR-13,fa,Iran (Islamic Republic of),IR
+"Tehran",IR-07,fa,Iran (Islamic Republic of),IR
+"Yazd",IR-25,fa,Iran (Islamic Republic of),IR
+"Zanjan",IR-11,fa,Iran (Islamic Republic of),IR
+"Adygeya, Respublika",RU-AD,ru,Russian Federation,RU
+"Altay, Respublika",RU-AL,ru,Russian Federation,RU
+"Altayskiy kray",RU-ALT,ru,Russian Federation,RU
+"Amurskaya oblast'",RU-AMU,ru,Russian Federation,RU
+"Arkhangel'skaya oblast'",RU-ARK,ru,Russian Federation,RU
+"Astrakhanskaya oblast'",RU-AST,ru,Russian Federation,RU
+"Bashkortostan, Respublika",RU-BA,ru,Russian Federation,RU
+"Belgorodskaya oblast'",RU-BEL,ru,Russian Federation,RU
+"Bryanskaya oblast'",RU-BRY,ru,Russian Federation,RU
+"Buryatiya, Respublika",RU-BU,ru,Russian Federation,RU
+"Chechenskaya Respublika",RU-CE,ru,Russian Federation,RU
+"Chelyabinskaya oblast'",RU-CHE,ru,Russian Federation,RU
+"Chukotskiy avtonomnyy okrug",RU-CHU,ru,Russian Federation,RU
+"Chuvashskaya Respublika",RU-CU,ru,Russian Federation,RU
+"Dagestan, Respublika",RU-DA,ru,Russian Federation,RU
+"Ingushetiya, Respublika",RU-IN,ru,Russian Federation,RU
+"Irkutskaya oblast'",RU-IRK,ru,Russian Federation,RU
+"Ivanovskaya oblast'",RU-IVA,ru,Russian Federation,RU
+"Kabardino-Balkarskaya Respublika",RU-KB,ru,Russian Federation,RU
+"Kaliningradskaya oblast'",RU-KGD,ru,Russian Federation,RU
+"Kalmykiya, Respublika",RU-KL,ru,Russian Federation,RU
+"Kaluzhskaya oblast'",RU-KLU,ru,Russian Federation,RU
+"Kamchatskiy kray",RU-KAM,ru,Russian Federation,RU
+"Karachayevo-Cherkesskaya Respublika",RU-KC,ru,Russian Federation,RU
+"Kareliya, Respublika",RU-KR,ru,Russian Federation,RU
+"Kemerovskaya oblast'",RU-KEM,ru,Russian Federation,RU
+"Khabarovskiy kray",RU-KHA,ru,Russian Federation,RU
+"Khakasiya, Respublika",RU-KK,ru,Russian Federation,RU
+"Khanty-Mansiyskiy avtonomnyy okrug",RU-KHM,ru,Russian Federation,RU
+"Kirovskaya oblast'",RU-KIR,ru,Russian Federation,RU
+"Komi, Respublika",RU-KO,ru,Russian Federation,RU
+"Kostromskaya oblast'",RU-KOS,ru,Russian Federation,RU
+"Krasnodarskiy kray",RU-KDA,ru,Russian Federation,RU
+"Krasnoyarskiy kray",RU-KYA,ru,Russian Federation,RU
+"Kurganskaya oblast'",RU-KGN,ru,Russian Federation,RU
+"Kurskaya oblast'",RU-KRS,ru,Russian Federation,RU
+"Leningradskaya oblast'",RU-LEN,ru,Russian Federation,RU
+"Lipetskaya oblast'",RU-LIP,ru,Russian Federation,RU
+"Magadanskaya oblast'",RU-MAG,ru,Russian Federation,RU
+"Mariy El, Respublika",RU-ME,ru,Russian Federation,RU
+"Mordoviya, Respublika",RU-MO,ru,Russian Federation,RU
+"Moskovskaya oblast'",RU-MOS,ru,Russian Federation,RU
+"Moskva",RU-MOW,ru,Russian Federation,RU
+"Murmanskaya oblast'",RU-MUR,ru,Russian Federation,RU
+"Nenetskiy avtonomnyy okrug",RU-NEN,ru,Russian Federation,RU
+"Nizhegorodskaya oblast'",RU-NIZ,ru,Russian Federation,RU
+"Novgorodskaya oblast'",RU-NGR,ru,Russian Federation,RU
+"Novosibirskaya oblast'",RU-NVS,ru,Russian Federation,RU
+"Omskaya oblast'",RU-OMS,ru,Russian Federation,RU
+"Orenburgskaya oblast'",RU-ORE,ru,Russian Federation,RU
+"Orlovskaya oblast'",RU-ORL,ru,Russian Federation,RU
+"Penzenskaya oblast'",RU-PNZ,ru,Russian Federation,RU
+"Permskiy kray",RU-PER,ru,Russian Federation,RU
+"Primorskiy kray",RU-PRI,ru,Russian Federation,RU
+"Pskovskaya oblast'",RU-PSK,ru,Russian Federation,RU
+"Rostovskaya oblast'",RU-ROS,ru,Russian Federation,RU
+"Ryazanskaya oblast'",RU-RYA,ru,Russian Federation,RU
+"Saha, Respublika",RU-SA,ru,Russian Federation,RU
+"Sakhalinskaya oblast'",RU-SAK,ru,Russian Federation,RU
+"Samarskaya oblast'",RU-SAM,ru,Russian Federation,RU
+"Sankt-Peterburg",RU-SPE,ru,Russian Federation,RU
+"Saratovskaya oblast'",RU-SAR,ru,Russian Federation,RU
+"Severnaya Osetiya, Respublika",RU-SE,ru,Russian Federation,RU
+"Smolenskaya oblast'",RU-SMO,ru,Russian Federation,RU
+"Stavropol'skiy kray",RU-STA,ru,Russian Federation,RU
+"Sverdlovskaya oblast'",RU-SVE,ru,Russian Federation,RU
+"Tambovskaya oblast'",RU-TAM,ru,Russian Federation,RU
+"Tatarstan, Respublika",RU-TA,ru,Russian Federation,RU
+"Tomskaya oblast'",RU-TOM,ru,Russian Federation,RU
+"Tul'skaya oblast'",RU-TUL,ru,Russian Federation,RU
+"Tverskaya oblast'",RU-TVE,ru,Russian Federation,RU
+"Tyumenskaya oblast'",RU-TYU,ru,Russian Federation,RU
+"Tyva, Respublika",RU-TY,ru,Russian Federation,RU
+"Udmurtskaya Respublika",RU-UD,ru,Russian Federation,RU
+"Ul'yanovskaya oblast'",RU-ULY,ru,Russian Federation,RU
+"Vladimirskaya oblast'",RU-VLA,ru,Russian Federation,RU
+"Volgogradskaya oblast'",RU-VGG,ru,Russian Federation,RU
+"Vologodskaya oblast'",RU-VLG,ru,Russian Federation,RU
+"Voronezhskaya oblast'",RU-VOR,ru,Russian Federation,RU
+"Yamalo-Nenetskiy avtonomnyy okrug",RU-YAN,ru,Russian Federation,RU
+"Yaroslavskaya oblast'",RU-YAR,ru,Russian Federation,RU
+"Yevreyskaya avtonomnaya oblast'",RU-YEV,ru,Russian Federation,RU
+"Zabaykal'skiy kray",RU-ZAB,ru,Russian Federation,RU
+"Alabama",US-AL,en,United States of America,US
+"Alaska",US-AK,en,United States of America,US
+"Arizona",US-AZ,en,United States of America,US
+"Arkansas",US-AR,en,United States of America,US
+"California",US-CA,en,United States of America,US
+"Colorado",US-CO,en,United States of America,US
+"Connecticut",US-CT,en,United States of America,US
+"Delaware",US-DE,en,United States of America,US
+"District of Columbia",US-DC,en,United States of America,US
+"Florida",US-FL,en,United States of America,US
+"Georgia",US-GA,en,United States of America,US
+"Hawaii",US-HI,en,United States of America,US
+"Idaho",US-ID,en,United States of America,US
+"Illinois",US-IL,en,United States of America,US
+"Indiana",US-IN,en,United States of America,US
+"Iowa",US-IA,en,United States of America,US
+"Kansas",US-KS,en,United States of America,US
+"Kentucky",US-KY,en,United States of America,US
+"Louisiana",US-LA,en,United States of America,US
+"Maine",US-ME,en,United States of America,US
+"Maryland",US-MD,en,United States of America,US
+"Massachusetts",US-MA,en,United States of America,US
+"Michigan",US-MI,en,United States of America,US
+"Minnesota",US-MN,en,United States of America,US
+"Mississippi",US-MS,en,United States of America,US
+"Missouri",US-MO,en,United States of America,US
+"Montana",US-MT,en,United States of America,US
+"Nebraska",US-NE,en,United States of America,US
+"Nevada",US-NV,en,United States of America,US
+"New Hampshire",US-NH,en,United States of America,US
+"New Jersey",US-NJ,en,United States of America,US
+"New Mexico",US-NM,en,United States of America,US
+"New York",US-NY,en,United States of America,US
+"North Carolina",US-NC,en,United States of America,US
+"North Dakota",US-ND,en,United States of America,US
+"Ohio",US-OH,en,United States of America,US
+"Oklahoma",US-OK,en,United States of America,US
+"Oregon",US-OR,en,United States of America,US
+"Pennsylvania",US-PA,en,United States of America,US
+"Rhode Island",US-RI,en,United States of America,US
+"South Carolina",US-SC,en,United States of America,US
+"South Dakota",US-SD,en,United States of America,US
+"Tennessee",US-TN,en,United States of America,US
+"Texas",US-TX,en,United States of America,US
+"Utah",US-UT,en,United States of America,US
+"Vermont",US-VT,en,United States of America,US
+"Virginia",US-VA,en,United States of America,US
+"Washington",US-WA,en,United States of America,US
+"West Virginia",US-WV,en,United States of America,US
+"Wisconsin",US-WI,en,United States of America,US
+"Wyoming",US-WY,en,United States of America,US
+"Amazonas",VE-Z,es,Venezuela (Bolivarian Republic of),VE
+"Anzoategui",VE-B,es,Venezuela (Bolivarian Republic of),VE
+"Apure",VE-C,es,Venezuela (Bolivarian Republic of),VE
+"Aragua",VE-D,es,Venezuela (Bolivarian Republic of),VE
+"Barinas",VE-E,es,Venezuela (Bolivarian Republic of),VE
+"Bolivar",VE-F,es,Venezuela (Bolivarian Republic of),VE
+"Carabobo",VE-G,es,Venezuela (Bolivarian Republic of),VE
+"Cojedes",VE-H,es,Venezuela (Bolivarian Republic of),VE
+"Delta Amacuro",VE-Y,es,Venezuela (Bolivarian Republic of),VE
+"Distrito Capital",VE-A,es,Venezuela (Bolivarian Republic of),VE
+"Falcon",VE-I,es,Venezuela (Bolivarian Republic of),VE
+"Guarico",VE-J,es,Venezuela (Bolivarian Republic of),VE
+"Lara",VE-K,es,Venezuela (Bolivarian Republic of),VE
+"Merida",VE-L,es,Venezuela (Bolivarian Republic of),VE
+"Miranda",VE-M,es,Venezuela (Bolivarian Republic of),VE
+"Monagas",VE-N,es,Venezuela (Bolivarian Republic of),VE
+"Nueva Esparta",VE-O,es,Venezuela (Bolivarian Republic of),VE
+"Portuguesa",VE-P,es,Venezuela (Bolivarian Republic of),VE
+"Sucre",VE-R,es,Venezuela (Bolivarian Republic of),VE
+"Tachira",VE-S,es,Venezuela (Bolivarian Republic of),VE
+"Trujillo",VE-T,es,Venezuela (Bolivarian Republic of),VE
+"Vargas",VE-X,es,Venezuela (Bolivarian Republic of),VE
+"Yaracuy",VE-U,es,Venezuela (Bolivarian Republic of),VE
+"Zulia",VE-V,es,Venezuela (Bolivarian Republic of),VE
+"An Giang",VN-44,vi,Viet Nam,VN
+"Ba Ria - Vung Tau",VN-43,vi,Viet Nam,VN
+"Bac Giang",VN-54,vi,Viet Nam,VN
+"Bac Kan",VN-53,vi,Viet Nam,VN
+"Bac Lieu",VN-55,vi,Viet Nam,VN
+"Bac Ninh",VN-56,vi,Viet Nam,VN
+"Ben Tre",VN-50,vi,Viet Nam,VN
+"Binh Dinh",VN-31,vi,Viet Nam,VN
+"Binh Duong",VN-57,vi,Viet Nam,VN
+"Binh Phuoc",VN-58,vi,Viet Nam,VN
+"Binh Thuan",VN-40,vi,Viet Nam,VN
+"Ca Mau",VN-59,vi,Viet Nam,VN
+"Can Tho",VN-CT,vi,Viet Nam,VN
+"Cao Bang",VN-04,vi,Viet Nam,VN
+"Da Nang",VN-DN,vi,Viet Nam,VN
+"Dak Lak",VN-33,vi,Viet Nam,VN
+"Dak Nong",VN-72,vi,Viet Nam,VN
+"Dien Bien",VN-71,vi,Viet Nam,VN
+"Dong Nai",VN-39,vi,Viet Nam,VN
+"Dong Thap",VN-45,vi,Viet Nam,VN
+"Gia Lai",VN-30,vi,Viet Nam,VN
+"Ha Giang",VN-03,vi,Viet Nam,VN
+"Ha Nam",VN-63,vi,Viet Nam,VN
+"Ha Noi",VN-HN,vi,Viet Nam,VN
+"Ha Tinh",VN-23,vi,Viet Nam,VN
+"Hai Duong",VN-61,vi,Viet Nam,VN
+"Hai Phong",VN-HP,vi,Viet Nam,VN
+"Ho Chi Minh",VN-SG,vi,Viet Nam,VN
+"Hoa Binh",VN-14,vi,Viet Nam,VN
+"Hung Yen",VN-66,vi,Viet Nam,VN
+"Khanh Hoa",VN-34,vi,Viet Nam,VN
+"Kien Giang",VN-47,vi,Viet Nam,VN
+"Kon Tum",VN-28,vi,Viet Nam,VN
+"Lai Chau",VN-01,vi,Viet Nam,VN
+"Lam Dong",VN-35,vi,Viet Nam,VN
+"Lang Son",VN-09,vi,Viet Nam,VN
+"Lao Cai",VN-02,vi,Viet Nam,VN
+"Long An",VN-41,vi,Viet Nam,VN
+"Nam Dinh",VN-67,vi,Viet Nam,VN
+"Nghe An",VN-22,vi,Viet Nam,VN
+"Ninh Binh",VN-18,vi,Viet Nam,VN
+"Ninh Thuan",VN-36,vi,Viet Nam,VN
+"Phu Tho",VN-68,vi,Viet Nam,VN
+"Phu Yen",VN-32,vi,Viet Nam,VN
+"Quang Binh",VN-24,vi,Viet Nam,VN
+"Quang Nam",VN-27,vi,Viet Nam,VN
+"Quang Ngai",VN-29,vi,Viet Nam,VN
+"Quang Ninh",VN-13,vi,Viet Nam,VN
+"Quang Tri",VN-25,vi,Viet Nam,VN
+"Soc Trang",VN-52,vi,Viet Nam,VN
+"Son La",VN-05,vi,Viet Nam,VN
+"Tay Ninh",VN-37,vi,Viet Nam,VN
+"Thai Binh",VN-20,vi,Viet Nam,VN
+"Thai Nguyen",VN-69,vi,Viet Nam,VN
+"Thanh Hoa",VN-21,vi,Viet Nam,VN
+"Thua Thien-Hue",VN-26,vi,Viet Nam,VN
+"Tien Giang",VN-46,vi,Viet Nam,VN
+"Tra Vinh",VN-51,vi,Viet Nam,VN
+"Tuyen Quang",VN-07,vi,Viet Nam,VN
+"Vinh Long",VN-49,vi,Viet Nam,VN
+"Vinh Phuc",VN-70,vi,Viet Nam,VN
+"Yen Bai",VN-06,vi,Viet Nam,VN

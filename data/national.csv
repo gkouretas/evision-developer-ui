@@ -1,0 +1,81 @@
+Name,Code,Continent,Languages,Primary Language
+Angola,AO,Africa,"pt",pt
+Argentina,AR,South America,"es,gn",es
+Austria,AT,Europe,"de",de
+Australia,AU,Oceania,"en",en
+Azerbaijan,AZ,Asia,"az",az
+Bosnia and Herzegovina,BA,Europe,"bs,hr,sr",bs
+Barbados,BB,North America,"en",en
+Belgium,BE,Europe,"nl,fr,de",nl
+Bulgaria,BG,Europe,"bg",bg
+Bermuda,BM,North America,"en",en
+Brazil,BR,South America,"pt",pt
+Bahamas,BS,North America,"en",en
+Belize,BZ,North America,"en,es",en
+Canada,CA,North America,"en,fr",en
+Switzerland,CH,Europe,"de,fr,it",de
+Chile,CL,South America,"es",es
+Colombia,CO,South America,"es",es
+Costa Rica,CR,North America,"es",es
+Cuba,CU,North America,"es",es
+Germany,DE,Europe,"de",de
+Denmark,DK,Europe,"da",da
+Dominican Republic,DO,North America,"es",es
+Ecuador,EC,South America,"es",es
+Egypt,EG,Africa,"ar",ar
+Spain,ES,Europe,"es,eu,ca,gl,oc",es
+Finland,FI,Europe,"fi,sv",fi
+France,FR,Europe,"fr",fr
+Georgia,GE,Asia,"ka",ka
+Ghana,GH,Africa,"en",en
+Greece,GR,Europe,"el",el
+Guatemala,GT,North America,"es",es
+Honduras,HN,North America,"es",es
+Croatia,HR,Europe,"hr",hr
+Hungary,HU,Europe,"hu",hu
+Iceland,IS,Europe,"is",is
+Italy,IT,Europe,"it",it
+Jamaica,JM,North America,"en",en
+Japan,JP,Asia,"ja",ja
+Kenya,KE,Africa,"en,sw",en
+Cayman Islands,KY,North America,"en",en
+Lithuania,LT,Europe,"lt",lt
+Morocco,MA,Africa,"ar",ar
+Mongolia,MN,Asia,"mn",mn
+Mauritius,MU,Africa,"en",en
+Mexico,MX,North America,"es",es
+Malaysia,MY,Asia,"ms",ms
+Nigeria,NG,Africa,"en",en
+Nicaragua,NI,North America,"es",es
+Netherlands,NL,Europe,"nl",nl
+Norway,NO,Europe,"no,nb,nn",no
+New Zealand,NZ,Oceania,"en,mi",en
+Panama,PA,North America,"es",es
+Peru,PE,South America,"es",es
+Papua New Guinea,PG,Oceania,"en",en
+Philippines,PH,Asia,"en",en
+Pakistan,PK,Asia,"en,ur",en
+Poland,PL,Europe,"pl",pl
+Portugal,PT,Europe,"pt",pt
+Paraguay,PY,South America,"es,gn",es
+Saudi Arabia,SA,Asia,"ar",ar
+Sweden,SE,Europe,"sv",sv
+Singapore,SG,Asia,"en,ms,ta,zh",en
+Slovenia,SI,Europe,"sl",sl
+Slovakia,SK,Europe,"sk",sk
+Senegal,SN,Africa,"fr",fr
+El Salvador,SV,North America,"es",es
+Thailand,TH,Asia,"th",th
+Turkey,TR,Asia,"tr",tr
+Trinidad and Tobago,TT,North America,"en",en
+Ukraine,UA,Europe,"uk",uk
+Uruguay,UY,South America,"es",es
+South Africa,ZA,Africa,"af,en,nr,st,ss,tn,ts,ve,xh,zu",af
+Bolivia (Plurinational State of),BO,South America,"es,ay,qu",es
+Czechia,CZ,Europe,"cs,sk",cs
+United Kingdom of Great Britain and Northern Ireland,GB,Europe,"en",en
+Iran (Islamic Republic of),IR,Asia,"fa",fa
+Russian Federation,RU,Europe,"ru",ru
+United States of America,US,North America,"en",en
+Venezuela (Bolivarian Republic of),VE,South America,"es",es
+Viet Nam,VN,Asia,"vi",vi
