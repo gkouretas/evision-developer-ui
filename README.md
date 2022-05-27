@@ -14,7 +14,7 @@ Dependencies
 The dependencies for this app include:
 
 * MATLAB r2020a (will likely also work with older version)
-* Python 3.7 or 3.8 (download libraries using requirements.txt file)
+* Python >= 3.7 (download libraries using requirements.txt file)
 * Google Chrome
 * chromedriver (can download <a href="https://chromedriver.chromium.org/">here</a>)
 
